@@ -7,7 +7,7 @@ res = urllib.request.urlopen(url)
 html = res.read().decode('utf-8')
 # 解析网页
 soup = BeautifulSoup(html, 'html.parser')
-result = soup.find_all('img',limit=1)
+result = soup.find_all('img',limit=10)
 links = []
 for content in result:
     links.append(content.get('src'))
