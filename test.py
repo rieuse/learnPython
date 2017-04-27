@@ -1,14 +1,12 @@
-import scrapy
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 
-class DmozSpider(scrapy.Spider):
-    name = "dmoz"
-    allowed_domains = ["dmoz.org"]
-    start_urls = [
-        "http://www.dmoz.org/Computers/Programming/Languages/Python/Books/",
-        "http://www.dmoz.org/Computers/Programming/Languages/Python/Resources/"
-    ]
+browser = webdriver.Firefox()
 
-    def parse(self, response):
-        filename = response.url.split("/")[-2] + '.html'
-        with open(filename, 'wb') as f:
-            f.write(response.body)
+browser.get('http://www.yahoo.com')
+assert 'Yahoo!' in browser.title
+
+elem = browser.find_element_by_name('p')  # Find the search box
+elem.send_keys('seleniumhq' + Keys.RETURN)
+
+browser.quit()
