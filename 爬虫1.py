@@ -2,7 +2,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 import os
 # 下载网页
-url = 'http://www.yidianzixun. com/home?page=article&id=0G5zThN8&up=0'
+url = 'http://www.yidianzixun.com/home?page=article&id=0G5zThN8&up=0'
 res = urllib.request.urlopen(url)
 html = res.read().decode('utf-8')
 # 解析网页

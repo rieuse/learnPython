@@ -1,12 +1,19 @@
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-
-browser = webdriver.Firefox()
-
-browser.get('http://www.yahoo.com')
-assert 'Yahoo!' in browser.title
-
-elem = browser.find_element_by_name('p')  # Find the search box
-elem.send_keys('seleniumhq' + Keys.RETURN)
-
-browser.quit()
+import urllib.request
+import lxml.html
+url = 'http://news.ifeng.com/listpage/11502/0/1/rtlist.shtml'
+r = urllib.request.urlopen(url)
+html = r.read().decode('utf-8')
+doc = lxml.html.fromstring(html)
+info = doc.xpath('//div[@class="newsList"]/ul[1]/li/a/text()')
+href = doc.xpath('//div[@class="newsList"]/ul[1]/li/a/@href')
+i = 0
+all = []
+for content in info:
+    title = info
+    link = href
+    results = {
+        '标题':title[i],
+        '链接':link[i]
+    }
+    i += 1
+    print(results)
