@@ -32,7 +32,7 @@ for i in range(1, 7):
         data = articles
         data_list.append(data)
 
-with open('jianshu.csv', 'w') as f:
+with open('jianshu2.csv', 'w') as f:
     writer = csv.writer(f)
     writer.writerow(['文章标题', '作者', '时间', '阅读量', '评论', '喜欢', '赞赏数', '文章地址'])
     for data in data_list:
