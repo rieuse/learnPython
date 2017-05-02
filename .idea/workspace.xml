@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫一：爬取豆瓣电影中速度与激情8演员图片.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫二：使用lxml解析HTML，输出对应值.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/移盘子.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -606,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493679468894</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="爬取黑龙江大学登录验证码配合帐号登录，返回登录后的主页面">
+      <created>1493692435571</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1493692435571</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -682,7 +686,8 @@
     <MESSAGE value="注释" />
     <MESSAGE value="ok" />
     <MESSAGE value="&#10;添加" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;添加" />
+    <MESSAGE value="爬取黑龙江大学登录验证码配合帐号登录，返回登录后的主页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="爬取黑龙江大学登录验证码配合帐号登录，返回登录后的主页面" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
