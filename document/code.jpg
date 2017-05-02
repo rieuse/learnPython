@@ -1,0 +1,92 @@
+﻿
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Chenwei" />
+<meta name="robots" content="all" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta http-equiv="X-UA-Compatible"content="IE=EmulateIE7" />
+    <link href="style/validation.css" rel="stylesheet" type="text/css"/>
+    <link href="login/style/style1.css" rel="stylesheet" type="text/css"/>
+<title>黑龙江大学校园应用门户登陆</title>
+</head>
+<body>
+<form id="loginForm" name="loginForm" method="post" action="">
+<div class="wallpaper">
+  <div class="login-main">
+  	<div class="header"><i class="tc-img"><img src="login/images/tc.png" width="73" height="93" /></i><i class="logo"><img src="login/images/logo1.png" width="441" height="74" /></i></div>
+    <div class="login-area">
+    	<div class="login-left"><img src="login/images/login-img.jpg" width="694" height="392" /></div>
+        <div class="login-right">
+
+
+        	<div class="form-area fw">
+            	<h1>用户登录</h1>
+                <div class="form">
+
+                    <p id="loginMsg" class="err-msg ipt2" style="visibility:hidden;"></p>
+
+                	<p><span>用户名：</span>
+                	  <input type="text"  name="user" id="username"  class="ipt" /></p>
+
+                    <p><span>密<span style="width:12px;"></span>码：</span>
+                      <input type="password" name="pwd" id="password"  class="ipt" /></p>
+
+                    <p id="captchaContent"><span>验证码：</span>
+                    <input type="text" name="captcha" class="ipt1" />
+                    <img id="captchaImg" src="images/s.gif" title=""  class="ipt1" >   </p>
+                    <p class="mt10" style="margin-top:6px;"><span style="width:49px;"></span>&nbsp;
+                        &nbsp;
+                        <input type="submit" name="btn" value=""  tabindex="4"
+                               style="border-width:0;width:80px;height:29px;background-image:url(login/images/dl.png);
+			                   cursor:pointer;margin-left:-20px;"  />
+
+                        <input tabindex="5" type="reset"  value=""
+                               style="border-width:0;width:80px;height:29px;background-image:url(login/images/cz.png);
+                               cursor:pointer; margin-left:4px;"  tabIndex="5"/>
+
+                    </p>
+                </div>
+
+                <div class="form-content" style="margin-top:7px;">
+                	<p>说明：  <a href="http://my.hlju.edu.cn/getBackPassword.portal" target="_blank"><font class="f-blue">【密码找回】</font></a></p>
+                    <p>1.用户名:(1)教工用户名为职工号或别名，如工号有问题请咨询人事处。(2)学生用户名为学号。</p>
+                    <p>2.密码：(1)首次登录：初始密码为本人身份证号后六位（字母大写）。(2)学生使用应用门户密码(即选课密码)登陆；</p>
+                    <p>3.服务电话：学生86604835，教师86609104，或QQ在线咨询<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2108271424&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:2108271424:52" alt="点击这里给我发消息" title="在线咨询"/></a></p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="footer mt10">
+    	<span>Copyright <font class="copy">©</font> 2016 黑龙江大学   All rights reserved.</span>
+    	<p><a href="http://125.223.1.100/ihlju/index.html" target="_blank">移动客户端下载</a> | <a href="http://my.hlju.edu.cn/getBackPassword.portal" >密码找回</a> | <a href="http://my.hlju.edu.cn/dns.rar" target="_blank">DNS</a> | <a href="http://xsxk.hlju.edu.cn/xsxk" target="_blank">选课系统</a>
+			
+		</p>
+    </div>
+  </div>
+</div>
+</form>
+</body>
+</html>
+<script type="text/javascript">
+    var Login = {
+        forwardUrl:'',
+        loginURL:'userPasswordValidate.portal',
+        nameField:'Login.Token1',
+        pwdField:'Login.Token2',
+        gotoUrl:'http://my.hlju.edu.cn/loginSuccess.portal',
+        gotoFailUrl:'http://my.hlju.edu.cn/loginFailure.portal',
+        hideCaptcha:false
+    };
+</script>
+<script type="text/javascript" src="script/portal-login.js"></script>
