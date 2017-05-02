@@ -17,8 +17,8 @@ with open('code.jpg', 'wb') as f:
 img = Image.open('img\code.jpg')
 img.show()
 data = {}
-data['Login.Token1'] = '20154433'
-data['Login.Token2'] = '不给看咯'
+data['Login.Token1'] = '帐号'
+data['Login.Token2'] = '密码'
 data['captcha'] = input('输入验证码：')
 data['goto'] = 'http://my.hlju.edu.cn/loginSuccess.portal'
 data['gotoOnFail'] = 'http://my.hlju.edu.cn/loginFailure.portal'
