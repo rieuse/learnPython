@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python爬虫日记四：获取黑大验证码并登录.py" afterPath="$PROJECT_DIR$/Python爬虫日记四：获取黑大验证码并登录.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python爬虫日记一：爬取豆瓣电影中速度与激情8演员图片.py" afterPath="$PROJECT_DIR$/Python爬虫日记一：爬取豆瓣电影中速度与激情8演员图片.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python爬虫日记二：使用lxml解析HTML，输出对应值.py" afterPath="$PROJECT_DIR$/Python爬虫日记二：使用lxml解析HTML，输出对应值.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,23 +52,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Python爬虫日记三：爬取v2ex数据用csv保存.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python爬虫日记三：爬取v2ex数据用csv保存.py">
+      <file leaf-file-name="Python爬虫日记一：爬取豆瓣电影中速度与激情8演员图片.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python爬虫日记一：爬取豆瓣电影中速度与激情8演员图片.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="521">
+              <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
               <folding>
-                <element signature="e#0#24#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Python爬虫日记四：获取黑大验证码并登录.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python爬虫日记四：获取黑大验证码并登录.py">
+      <file leaf-file-name="Python爬虫日记二：使用lxml解析HTML，输出对应值.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python爬虫日记二：使用lxml解析HTML，输出对应值.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="375">
+              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -148,6 +149,8 @@
         <option value="$PROJECT_DIR$/Python爬虫6获取黑大验证码并登录.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记三：爬取v2ex数据用csv保存.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记四：获取黑大验证码并登录.py" />
+        <option value="$PROJECT_DIR$/Python爬虫日记二：使用lxml解析HTML，输出对应值.py" />
+        <option value="$PROJECT_DIR$/Python爬虫日记一：爬取豆瓣电影中速度与激情8演员图片.py" />
       </list>
     </option>
   </component>
@@ -158,9 +161,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="779" />
-    <option name="y" value="18" />
-    <option name="width" value="941" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
     <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -637,7 +640,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493699995888</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="修改代码">
+      <created>1493700486814</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1493700486814</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -650,7 +660,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="779" y="18" width="941" height="1060" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20922747" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
@@ -727,8 +737,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/生成器.py" />
-    <entry file="file://$PROJECT_DIR$/列表生成式.py" />
     <entry file="file://$PROJECT_DIR$/迭代.py" />
     <entry file="file://$PROJECT_DIR$/切片.py" />
     <entry file="file://$PROJECT_DIR$/tcp小例子.py" />
@@ -895,6 +903,26 @@
           <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python爬虫日记二：使用lxml解析HTML，输出对应值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python爬虫日记一：爬取豆瓣电影中速度与激情8演员图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
