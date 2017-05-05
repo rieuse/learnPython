@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="增加爬虫五">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python爬虫日记五：使用Selenium爬取一点资讯动态数据.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +60,7 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="0">
               <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -82,14 +81,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Python爬虫日记五：使用Selenium爬取一点资讯动态数据.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Python爬虫日记五：使用Selenium爬取一点资讯动态数据.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python爬虫日记五：使用Selenium爬取一点资讯动态数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            <state relative-caret-position="125">
+              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="高级特性.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python基础示例代码/高级特性.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -123,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/切片.py" />
         <option value="$PROJECT_DIR$/列表生成式.py" />
         <option value="$PROJECT_DIR$/列表判断后变成小写字母.py" />
         <option value="$PROJECT_DIR$/生成器.py" />
@@ -174,6 +182,7 @@
         <option value="$PROJECT_DIR$/技巧-selenium的简单使用.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记五：使用Selenium动态爬取一点资讯.py" />
         <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/Python爬虫日记五：使用Selenium爬取一点资讯动态数据.py" />
       </list>
     </option>
   </component>
@@ -209,11 +218,12 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/Anaconda3/envs/pp3/python.exe" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -691,7 +701,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493991610483</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="增加爬虫五">
+      <created>1493992637758</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1493992637758</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView">
@@ -782,10 +799,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/爬虫今日头条图片.py" />
-    <entry file="file://$PROJECT_DIR$/爬虫4-糗事百科.py" />
-    <entry file="file://$PROJECT_DIR$/爬虫——爬简书7日热门.py" />
-    <entry file="file://$PROJECT_DIR$/利用requests模块下载图片保存文件.py" />
     <entry file="file://$PROJECT_DIR$/使用bs的select选取.py" />
     <entry file="file://$PROJECT_DIR$/requests的cookies使用.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -988,7 +1001,7 @@
     <entry file="file://$PROJECT_DIR$/Python爬虫日记五：使用Selenium-PhantomJS爬取一点资讯动态数据.py" />
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="0">
           <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
@@ -1008,11 +1021,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python爬虫日记五：使用Selenium爬取一点资讯动态数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        <state relative-caret-position="125">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/v2ex.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/code.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/yidian.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础示例代码/高级特性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

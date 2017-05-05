@@ -1,0 +1,61 @@
+{
+  "action": "main",
+  "name": "vc cartoon",
+  "subaction": [
+    {
+      "action": "fetcher",
+      "url": "http://www.verycd.com/base/cartoon/page${0,1}${0,1}",
+      "subaction": [
+        {
+          "action": "parser",
+          "subaction": [
+            {
+              "action": "shell",
+              "subaction": [
+                {
+                  "action": "parser",
+                  "setField": "img",
+                  "rule": ".entry_cover .cover_img"
+                },
+                {
+                  "attr": "href",
+                  "action": "parser",
+                  "subaction": [
+                    {
+                      "action": "fetcher",
+                      "url": "http://www.verycd.com${#src}",
+                      "subaction": [
+                        {
+                          "action": "parser",
+                          "setField": "description",
+                          "rule": "#contents_more",
+                          "strip": "true"
+                        }
+                      ]
+                    }
+                  ],
+                  "setField": "src",
+                  "pos": 0,
+                  "rule": "a"
+                },
+                {
+                  "action": "parser",
+                  "setField": "score",
+                  "rule": ".entry_cover .score",
+                  "strip": "true"
+                },
+                {
+                  "action": "parser",
+                  "setField": "dest",
+                  "rule": ".bio a"
+                }
+              ],
+              "group": "default"
+            }
+          ],
+          "rule": ".entry_cover_list li"
+        }
+      ]
+    }
+  ]
+}
