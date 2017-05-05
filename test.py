@@ -1,18 +1,13 @@
-import csv
+from selenium import webdriver
+from bs4 import BeautifulSoup
+import time
 
-
-# 不用csv操作csv文件，输出内容
-# for line in open("file/sample.csv"):
-#     title, year, director = line.split(",")
-#     print(title,year, title)
-
-
-# 使用csv模块操作 csv文件，输出内容
-# with open('file/sample.csv','w') as file:
-    # reader = csv.reader(file)
-    # for title, year, director in reader:
-    #     print(title, year, director)
-with open('file/sample.csv','a') as file:
-    writer = csv.writer(file)
-    writer.writerows(['title', 'summary', 'year'])
-    writer.writerow(['文章标题', '作者', '时间', '阅读量', '评论', '喜欢', '赞赏数', '文章地址'])
+driver = webdriver.PhantomJS(executable_path=r'D:\phantomjs-2.1.1-windows\bin\phantomjs')
+driver.get('http://www.toutiao.com/ch/news_tech/')
+time.sleep(3)
+soup = BeautifulSoup(driver.page_source, 'lxml')
+articles = []
+for article in soup.find_all(class_='item', ga_event="article_item_click"):
+    tags = article.get_text()
+    print(article)
+    # print(tags)
