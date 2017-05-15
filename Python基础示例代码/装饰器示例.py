@@ -102,3 +102,6 @@ def decorator(name):
 @decorator('haha')
 def wait_for_deco(x, y):
     return x + y
+
+
+print(wait_for_deco(2, 6))
