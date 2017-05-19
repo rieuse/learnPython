@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Python.iml" filepath="$PROJECT_DIR$/.idea/Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/../scrapystudy/.idea/scrapystudy.iml" filepath="$PROJECT_DIR$/../scrapystudy/.idea/scrapystudy.iml" />
+      <module fileurl="file://E:/Programming/Python/代码收集/淘宝关键字搜索爬取数据储存到mongodb/.idea/淘宝关键字搜索爬取数据储存到mongodb.iml" filepath="E:/Programming/Python/代码收集/淘宝关键字搜索爬取数据储存到mongodb/.idea/淘宝关键字搜索爬取数据储存到mongodb.iml" />
     </modules>
   </component>
 </project>

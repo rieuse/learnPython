@@ -11,12 +11,12 @@ import pymongo
 # MONGO_DB = 'jingdong'
 # MONGO_TABLE = 'product'
 SERVICE_ARGS = ['--load-images=false', '--disk-cache=true']
-KEYWORD = 'python'
+KEYWORD = '连衣裙'
 # client = pymongo.MongoClient(MONGO_URL)
 # db = client[MONGO_DB]
 
 browser = webdriver.PhantomJS(service_args=SERVICE_ARGS)
-wait = WebDriverWait(browser, 15)
+wait = WebDriverWait(browser, 10)
 browser.set_window_size(1400, 900)
 
 
@@ -75,22 +75,22 @@ def get_products():
     wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, '#J_goodsList > ul > li > div')))
     html = browser.page_source
     soup = BeautifulSoup(html, 'lxml')
-    items = []  # J_goodsList > ul > li:nth-child(1) > div > div.p-img > a > img
-    for item in soup.find_all(class_='gl-item'):
-        image = item.find('.gl-i-wrap .p-img a img')
-        # price = item.select('#J_goodsList > ul > li > div > div.p-price > strong')
-        # deal = item.find(class_='p-commit').get_text()[3:]
+    # items = soup.find_all(class_='gl-warp clearfix')
+    items = []
+    for item in soup.find_all(class_='gl-warp clearfix'):
+        image = item.find(class_='err-product').get('src')
+        price = item.select('#J_goodsList > ul > li > div > div.p-price > strong')
+        deal = item.find(class_='p-commit').get_text()[3:]
         # title = item.select('#J_goodsList ul li div')[0]
         # shop = item.find(class_='p-shop').get('title')
         # items.append([image, price, deal, title , shop])
-        print(image)
+        print(price)
         # print(items)
 
 
 search()
 get_products()
 browser.close()
-
 # def main():
 #     try:
 #         total = search()

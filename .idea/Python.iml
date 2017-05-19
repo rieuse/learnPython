@@ -5,6 +5,9 @@
     <orderEntry type="jdk" jdkName="Python 3.6.0 (D:\Anaconda3\envs\pp3\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="scrapystudy" />
+    <orderEntry type="module" module-name="scrapystudy" />
+    <orderEntry type="module" module-name="scrapystudy" />
+    <orderEntry type="module" module-name="淘宝关键字搜索爬取数据储存到mongodb" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
