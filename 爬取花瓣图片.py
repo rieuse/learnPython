@@ -11,21 +11,21 @@ headers = {
     'X-Requested-With': 'XMLHttpRequest'
 }
 params = {
-    'j2x5i29u': '',
-    'max': '1062650100',
+    'j0ga0hbi': '',
+    'max': '1062161596',
     'limit': '100',
     'wfl': '1'
 }
-# request = requests.get(url=url,params=params,headers=headers)
-# # print(request.content)
-# sel = Selector(text=request.text)
+request = requests.get(url=url, params=params, headers=headers)
+print(request.content)
+sel = Selector(text=request.text)
 # for i in request.json()['pins']:
 #     print(i['pin_id'])
 
-r3 = requests.get(url=detailurl, headers=headers)
-sel = Selector(r3.text)
-print(sel)
-
+# z3 =requests.get(url=detailurl,headers=headers)
+# sel1 = Selector(text=z3.text)
+#
+# print(sel1)
 # 获取所有的//script
 # print(sel1.xpath('//script/text()'))
 # 获取我们需要的那一段，通过特需字段“app.page = app.page”,app.page = app.page这些字符串只有我们这一行script有
