@@ -24,6 +24,7 @@ def get_url():
         u = doc.xpath('//*[@id="waterfall"]/div/a[1]/@href')
         for item, fileName in zip(u, name):
             url = 'http://huaban.com' + item
+            print('主链接已找到：' + url)
             if '*' in fileName:
                 fileName = fileName.replace('*', '')
             dowload(url, fileName)
@@ -32,26 +33,25 @@ def get_url():
 
 
 def dowload(url, fileName):
-    print('准备下载中...')
     try:
         browser.get(url)
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, '#waterfall')))
         html = browser.page_source
         doc = lxml.html.fromstring(html)
-        if not os.path.exists('image\\' + fileName):
-            os.makedirs('image\\' + fileName)
+        if not os.path.exists('image2\\' + fileName):
+            os.makedirs('image2\\' + fileName)
         link = doc.xpath('//*[@id="waterfall"]/div/a/img/@src')
         i = 0
         for item in link:
             i += 1
             ur = 'http:' + item
+            print('正在下载第' + str(i) + '张图片，地址：' + ur)
             r = requests.get(ur)
-            filename = 'image\\{}\\'.format(fileName) + str(i) + '.jpg'
+            filename = 'image2\\{}\\'.format(fileName) + str(i) + '.jpg'
             with open(filename, 'wb') as fo:
                 fo.write(r.content)
-    except Exception as e:
-        print(e)
-        return
+    except Exception:
+        print('本次出错了')
 
 
 if __name__ == '__main__':
