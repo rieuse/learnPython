@@ -53,6 +53,5 @@ def dowload(url, fileName):
         print(e)
         return
 
-
 if __name__ == '__main__':
     get_url()
