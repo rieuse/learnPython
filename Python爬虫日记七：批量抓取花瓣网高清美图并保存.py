@@ -16,6 +16,7 @@ browser.set_window_size(1400, 900)
 
 
 def parser(url, param):
+    # 解析模块
     browser.get(url)
     wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, param)))
     html = browser.page_source
