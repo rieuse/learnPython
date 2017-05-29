@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="添加斗鱼爬取房间信息">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/spider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python爬虫一：解析HTML，输出对应的值.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/douyu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/Python6获取黑大验证码并登录.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/te.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/使用斗鱼API爬取房间弹幕.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/斗鱼直播房间数据分析.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/算法图解/选择排序.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/多线程.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/爬取斗鱼全部房间信息保存到Mongodb.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test2.py" afterPath="$PROJECT_DIR$/test2.py" />
@@ -105,13 +98,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="411">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="利用网址构造爬取斗鱼全部房间信息到Mongodb.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/利用网址构造爬取斗鱼全部房间信息到Mongodb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -185,7 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/技巧-selenium的简单使用.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记五：使用Selenium动态爬取一点资讯.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记五：使用Selenium爬取一点资讯动态数据.py" />
         <option value="$PROJECT_DIR$/Python基础示例代码/多线程例子2.py" />
@@ -236,6 +240,7 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/斗鱼直播房间数据分析.py" />
         <option value="$PROJECT_DIR$/利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py" />
+        <option value="$PROJECT_DIR$/利用网址构造爬取斗鱼全部房间信息到Mongodb.py" />
       </list>
     </option>
   </component>
@@ -589,13 +594,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00001" summary="注释">
-      <created>1491545428325</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1491545428325</updated>
-    </task>
     <task id="LOCAL-00002" summary="ok">
       <created>1491545639564</created>
       <option name="number" value="00002" />
@@ -925,7 +923,21 @@
       <option name="project" value="LOCAL" />
       <updated>1495972349643</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="整理">
+      <created>1496016317025</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1496016317025</updated>
+    </task>
+    <task id="LOCAL-00050" summary="添加斗鱼爬取房间信息">
+      <created>1496016397895</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1496016397895</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1027,9 +1039,9 @@
     <MESSAGE value="增加爬虫6" />
     <MESSAGE value="爬虫6" />
     <MESSAGE value="爬虫7" />
-    <MESSAGE value="整理" />
     <MESSAGE value="修改" />
     <MESSAGE value="整理代码，删除不用文件" />
+    <MESSAGE value="整理" />
     <MESSAGE value="添加斗鱼爬取房间信息" />
     <option name="LAST_COMMIT_MESSAGE" value="添加斗鱼爬取房间信息" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
@@ -1042,13 +1054,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../scrapystudy/.idea/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python爬虫5多线程爬取糗事百科评论.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1335,9 +1340,19 @@
     <entry file="file://$PROJECT_DIR$/利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/利用网址构造爬取斗鱼全部房间信息到Mongodb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
