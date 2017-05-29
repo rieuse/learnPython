@@ -7,3 +7,4 @@
 * 其他的爬虫代码我就暂时直接放到这个主目录里面了，以后多了的时候在分到子目录中去。
 #### 我的简书地址：http://www.jianshu.com/u/28fbebb6ac57
 #### 我的博客地址：http://bulolo.cn
+#### 我的QQ地址：http://wpa.qq.com/msgrd?v=3&uin=553704903&site=qq&menu=yes
