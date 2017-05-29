@@ -1,5 +1,7 @@
 # learnPython
 > 这些都是我平时写的爬虫记录和使用的一些示例，希望看到的同学一起学习一起交流。
+* [Python爬虫日记系列](https://github.com/rieuse/learnPython/tree/master/Python%E7%88%AC%E5%8F%96%E6%96%97%E9%B1%BC%E6%88%BF%E9%97%B4%E4%BF%A1%E6%81%AF%E5%92%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)：是我学Python学的爬虫，而且爬虫的思路还有讲解都放到了我的简书和博客中了，适合初学者学习。
+* Python爬虫小的demo：一些小的爬虫demo，练手用的。
 * Python基础代码：一些初学Python的时候写的代码，还有一些小技巧记录一下。
 * Python算法：学习Python算法的时候练习的代码，后续会多多练习。
 * 其他的爬虫代码我就暂时直接放到这个主目录里面了，以后多了的时候在分到子目录中去。
