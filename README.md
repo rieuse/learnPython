@@ -5,6 +5,6 @@
 * [Python基础代码](https://github.com/rieuse/learnPython/tree/master/Python%E5%9F%BA%E7%A1%80%E4%BB%A3%E7%A0%81)：一些初学Python的时候写的代码，还有一些小技巧记录一下。
 * [Python算法](https://github.com/rieuse/learnPython/tree/master/Python%E7%AE%97%E6%B3%95)：学习Python算法的时候练习的代码，后续会多多练习。
 * 其他的爬虫代码我就暂时直接放到这个主目录里面了，以后多了的时候在分到子目录中去。
-#### 我的简书地址：http://www.jianshu.com/u/28fbebb6ac57
-#### 我的博客地址：http://bulolo.cn
+#### 我的简书地址：**http://www.jianshu.com/u/28fbebb6ac57**
+#### 我的博客地址：**http://bulolo.cn**
 #### 我的 QQ 地址：[QQ和我交流，一起学习进步](http://wpa.qq.com/msgrd?v=3&uin=553704903&site=qq&menu=yes)
