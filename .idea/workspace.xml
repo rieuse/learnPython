@@ -3,14 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/使用斗鱼API爬取房间弹幕.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/斗鱼直播房间数据分析.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/project.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/result.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/scheduler.1d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/scheduler.1h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/scheduler.all" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/task.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/算法图解/选择排序.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫3爬简书7日热门.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫4使用bs的select选取图片二进制保存图片文件.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫5多线程爬取糗事百科评论.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫一：解析HTML，输出对应的值.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫日记一：爬取豆瓣电影中速度与激情8演员图片.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫日记七：批量抓取花瓣网高清美图并保存.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫日记三：爬取v2ex数据用csv保存.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫日记二：使用lxml解析HTML，输出对应值.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫日记五：使用Selenium爬取一点资讯动态数据.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫日记六：Selenium+xpath+bs4爬取亚马逊数据保存到mongodb.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫日记四：获取黑大验证码并登录.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/利用网址构造爬取斗鱼全部房间信息到Mongodb.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/爬取花瓣妹子缩略图.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,42 +87,7 @@
     <favorites_list name="Python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="利用网址构造爬取斗鱼全部房间信息到Mongodb.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/利用网址构造爬取斗鱼全部房间信息到Mongodb.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="斗鱼直播房间数据分析.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/斗鱼直播房间数据分析.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -564,13 +537,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00005" summary="ok">
-      <created>1491548015085</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1491548015085</updated>
-    </task>
     <task id="LOCAL-00006" summary="ok">
       <created>1491548020032</created>
       <option name="number" value="00006" />
@@ -907,7 +873,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496016812805</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="删除data">
+      <created>1496016903931</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1496016903933</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -932,7 +905,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1014,7 +986,8 @@
     <MESSAGE value="添加斗鱼爬取房间信息" />
     <MESSAGE value="整理" />
     <MESSAGE value="删除img" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除img" />
+    <MESSAGE value="删除data" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除data" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1254,13 +1227,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫一：解析HTML，输出对应的值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python爬虫4使用bs的select选取图片二进制保存图片文件.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1312,19 +1278,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python爬虫一：解析HTML，输出对应的值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/利用网址构造爬取斗鱼全部房间信息到Mongodb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="400">
+          <caret line="31" column="43" lean-forward="false" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
