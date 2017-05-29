@@ -1,13 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="添加斗鱼爬取房间信息">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/douyu.html" />
+    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/使用斗鱼API爬取房间弹幕.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/斗鱼直播房间数据分析.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/Python6获取黑大验证码并登录.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/F·加里·格雷.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/克里斯托弗·海维尤.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/卢克·伊万斯.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/卢达克里斯.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/埃尔莎·帕塔奇.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/娜塔莉·伊曼纽尔.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/布莱恩·泰勒.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/帕特里克·圣埃斯普利特.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/库尔特·拉塞尔.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/斯科特·伊斯特伍德.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/杰森·斯坦森.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/查理兹·塞隆.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/泰瑞斯·吉布森.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/盖瑞·斯科特·汤普森.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/米歇尔·罗德里格兹.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/范·迪塞尔.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/douban/道恩·强森.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photo/photo1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photo/photo10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photo/photo2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photo/photo3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photo/photo4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photo/photo5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photo/photo6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photo/photo7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photo/photo8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photo/photo9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/59.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/61.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/65.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/68.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/69.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/71.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/73.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/74.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/75.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/77.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/79.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/81.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/82.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/83.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/84.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/85.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/86.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/87.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/88.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/89.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/90.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/91.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/93.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/94.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/95.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/97.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/yzm/98.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/花瓶/花瓶1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/花瓶/花瓶2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/花瓶/花瓶3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/花瓶/花瓶4.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,16 +206,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="douyu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douyu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,8 +221,8 @@
       <file leaf-file-name="利用网址构造爬取斗鱼全部房间信息到Mongodb.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/利用网址构造爬取斗鱼全部房间信息到Mongodb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="300">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -571,13 +690,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00003" summary="ok">
-      <created>1491545676517</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1491545676517</updated>
-    </task>
     <task id="LOCAL-00004" summary="ok">
       <created>1491546310651</created>
       <option name="number" value="00004" />
@@ -914,7 +1026,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496016547795</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="整理">
+      <created>1496016663035</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1496016663035</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1300,7 +1419,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="775">
           <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1324,8 +1445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/利用网址构造爬取斗鱼全部房间信息到Mongodb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="300">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
