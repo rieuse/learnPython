@@ -13,8 +13,6 @@ print(l)
 print(type(l))
 name = data['nickname']
 online = data['online']
-
-
 # plt.plot(name,online,color='green',marker='o',linestyle='solid')
 # plt.title('小试牛刀')
 # plt.ylabel('people')

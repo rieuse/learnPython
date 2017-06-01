@@ -20,13 +20,13 @@ KEEP_ALIVE = "type@=keeplive/tick@=" + \
 # s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 
-def tranMsg(content):
-    length = bytearray([len(content) + 9, 0x00, 0x00, 0x00])
-    code = length
-    magic = bytearray([0xb1, 0x02, 0x00, 0x00])
-    end = bytearray([0x00])
-    trscont = bytes(content.encode('utf-8'))
-    return bytes(length + code + magic + trscont + end)
+# def tranMsg(content):
+#     length = bytearray([len(content) + 9, 0x00, 0x00, 0x00])
+#     code = length
+#     magic = bytearray([0xb1, 0x02, 0x00, 0x00])
+#     end = bytearray([0x00])
+#     trscont = bytes(content.encode('utf-8'))
+#     return bytes(length + code + magic + trscont + end)
 
 
 def create_Conn():
@@ -34,8 +34,7 @@ def create_Conn():
     s.connect((HOST, PORT))
     RID = 606118
     print("当前最热房间:", RID)
-    LOGIN_INFO = "type@=loginreq/username@=rieuse" + \
-                 "/password@=douyu/roomid@=" + str(RID) + "/"
+    LOGIN_INFO = "type@=loginreq/username@=rieuse" + "/password@=douyu/roomid@=" + str(RID) + "/"
     print(LOGIN_INFO)
     JION_GROUP = "type@=joingroup/rid@=" + str(RID) + "/gid@=-9999" + "/"
     print(JION_GROUP)
