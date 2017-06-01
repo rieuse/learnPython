@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
+    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="sort">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/斗鱼直播弹幕抓取/斗鱼弹幕服务器第三方接入协议v1.4.1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/matplotlib示例1.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newtest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test3.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python爬取斗鱼房间信息和数据分析/斗鱼直播房间数据分析.py" afterPath="$PROJECT_DIR$/Python爬取斗鱼房间信息和数据分析/斗鱼直播房间数据分析.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,37 +20,24 @@
     <SUITE FILE_PATH="coverage/learnPython$APIMongodb.coverage" NAME="利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb Coverage Results" MODIFIED="1495983454354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$socket.coverage" NAME="socket学习 Coverage Results" MODIFIED="1496334841086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础代码" />
     <SUITE FILE_PATH="coverage/learnPython$newtest.coverage" NAME="newtest Coverage Results" MODIFIED="1496337372543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPython$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1496338990585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$2.coverage" NAME="参数2 Coverage Results" MODIFIED="1491539120317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$PythonlxmlHTML.coverage" NAME="Python爬虫日记二：使用lxml解析HTML，输出对应值 Coverage Results" MODIFIED="1494815644305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnPython$main.coverage" NAME="main Coverage Results" MODIFIED="1495378379141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Programming/Python/代码收集/proxy_pool-master/Run" />
     <SUITE FILE_PATH="coverage/learnPython$test.coverage" NAME="test Coverage Results" MODIFIED="1495983352605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$douyuTV.coverage" NAME="douyuTV Coverage Results" MODIFIED="1495964738932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../别人斗鱼弹幕爬取/douyuTanmuGet" />
     <SUITE FILE_PATH="coverage/learnPython$_csv.coverage" NAME="技巧-csv的使用 Coverage Results" MODIFIED="1493619205643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$jdwashuping2.coverage" NAME="jdwashuping2 Coverage Results" MODIFIED="1493805271391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/360极速浏览器下载/作品提交/KK_Movies" />
-    <SUITE FILE_PATH="coverage/learnPython$get.coverage" NAME="get Coverage Results" MODIFIED="1495956409666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../别人斗鱼弹幕爬取/Danmu" />
     <SUITE FILE_PATH="coverage/learnPython$1.coverage" NAME="花瓣多线程版本1 Coverage Results" MODIFIED="1495855424591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$.coverage" NAME="斗鱼直播房间数据分析 Coverage Results" MODIFIED="1496029152223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python爬取斗鱼房间信息和数据分析" />
     <SUITE FILE_PATH="coverage/learnPython$tcp.coverage" NAME="tcp小例子 Coverage Results" MODIFIED="1492220369297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnPython$_.coverage" NAME="技巧-使用代理请求网页 Coverage Results" MODIFIED="1495374421741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnPython$Unittests_in_1_py.coverage" NAME="Unittests in 多线程例子1.py Coverage Results" MODIFIED="1494131849085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础示例代码" />
-    <SUITE FILE_PATH="coverage/learnPython$Mongodb.coverage" NAME="爬取斗鱼全部房间信息保存到Mongodb Coverage Results" MODIFIED="1495960300449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1495359405714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$Python.coverage" NAME="Python爬虫日记四：获取黑大验证码并登录 Coverage Results" MODIFIED="1493724618505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnPython$zip.coverage" NAME="zip创建键值对 Coverage Results" MODIFIED="1495262545734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础代码" />
-    <SUITE FILE_PATH="coverage/learnPython$Python4bsselect.coverage" NAME="Python爬虫4使用bs的select选取图片二进制保存图片文件 Coverage Results" MODIFIED="1493612146777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$API.coverage" NAME="使用斗鱼API爬取房间弹幕 Coverage Results" MODIFIED="1495965965989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$3.coverage" NAME="爬虫3 Coverage Results" MODIFIED="1493438457266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnPython$bsselect.coverage" NAME="使用bs的select选取 Coverage Results" MODIFIED="1493612051111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$demobasic.coverage" NAME="demobasic Coverage Results" MODIFIED="1493797160726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Programming/Python/pyrailgun-master/demo/tour" />
-    <SUITE FILE_PATH="coverage/learnPython$weather.coverage" NAME="weather Coverage Results" MODIFIED="1493806635473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/360极速浏览器下载" />
     <SUITE FILE_PATH="coverage/learnPython$Python37.coverage" NAME="Python爬虫3爬简书7日热门 Coverage Results" MODIFIED="1493770128352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnPython$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1495157227872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/京东爬取商品列表信息存入mongodb" />
     <SUITE FILE_PATH="coverage/learnPython$json.coverage" NAME="json的获取例子 Coverage Results" MODIFIED="1493952311250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础示例代码" />
-    <SUITE FILE_PATH="coverage/learnPython$Unittests_in_test2_py.coverage" NAME="Unittests in test2.py Coverage Results" MODIFIED="1496337864972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$try.coverage" NAME="try Coverage Results" MODIFIED="1491275884293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1495966568218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnPython$Unittests_in_test3_py.coverage" NAME="Unittests in test3.py Coverage Results" MODIFIED="1496029280102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnPython$Unittests_in_test1_py.coverage" NAME="Unittests in test1.py Coverage Results" MODIFIED="1496337942203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
     <SUITE FILE_PATH="coverage/learnPython$te.coverage" NAME="te Coverage Results" MODIFIED="1495197204274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$setup.coverage" NAME="setup Coverage Results" MODIFIED="1492326550969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python36/Lib/scrapy" />
     <SUITE FILE_PATH="coverage/learnPython$PythonSelenium.coverage" NAME="Python爬虫日记五：使用Selenium动态爬取一点资讯 Coverage Results" MODIFIED="1493976598625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -54,10 +46,24 @@
     <SUITE FILE_PATH="coverage/learnPython$comment_douyu.coverage" NAME="comment-douyu Coverage Results" MODIFIED="1495885971920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Download/douyu-0.1.3" />
     <SUITE FILE_PATH="coverage/learnPython$7.coverage" NAME="爬虫——爬简书7日热门 Coverage Results" MODIFIED="1493534679328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$if.coverage" NAME="if Coverage Results" MODIFIED="1491535752265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnPython$dataSender.coverage" NAME="dataSender Coverage Results" MODIFIED="1495956406100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../别人斗鱼弹幕爬取/Danmu/serverEnd" />
-    <SUITE FILE_PATH="coverage/learnPython$Python5v2excsv.coverage" NAME="Python爬虫5爬取v2ex数据用csv保存 Coverage Results" MODIFIED="1493646726197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$.coverage" NAME="高级特性 Coverage Results" MODIFIED="1491544006822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$2.coverage" NAME="爬虫练习2 Coverage Results" MODIFIED="1492327968506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPython$main.coverage" NAME="main Coverage Results" MODIFIED="1495378379141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Programming/Python/代码收集/proxy_pool-master/Run" />
+    <SUITE FILE_PATH="coverage/learnPython$get.coverage" NAME="get Coverage Results" MODIFIED="1495956409666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../别人斗鱼弹幕爬取/Danmu" />
+    <SUITE FILE_PATH="coverage/learnPython$_.coverage" NAME="技巧-使用代理请求网页 Coverage Results" MODIFIED="1495374421741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPython$Unittests_in_1_py.coverage" NAME="Unittests in 多线程例子1.py Coverage Results" MODIFIED="1494131849085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础示例代码" />
+    <SUITE FILE_PATH="coverage/learnPython$Mongodb.coverage" NAME="爬取斗鱼全部房间信息保存到Mongodb Coverage Results" MODIFIED="1495960300449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPython$zip.coverage" NAME="zip创建键值对 Coverage Results" MODIFIED="1495262545734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础代码" />
+    <SUITE FILE_PATH="coverage/learnPython$Python4bsselect.coverage" NAME="Python爬虫4使用bs的select选取图片二进制保存图片文件 Coverage Results" MODIFIED="1493612146777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPython$bsselect.coverage" NAME="使用bs的select选取 Coverage Results" MODIFIED="1493612051111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPython$weather.coverage" NAME="weather Coverage Results" MODIFIED="1493806635473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/360极速浏览器下载" />
+    <SUITE FILE_PATH="coverage/learnPython$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1495157227872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/京东爬取商品列表信息存入mongodb" />
+    <SUITE FILE_PATH="coverage/learnPython$Unittests_in_test2_py.coverage" NAME="Unittests in test2.py Coverage Results" MODIFIED="1496338864430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$try.coverage" NAME="try Coverage Results" MODIFIED="1491275884293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPython$Unittests_in_test3_py.coverage" NAME="Unittests in test3.py Coverage Results" MODIFIED="1496029280102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPython$Unittests_in_test1_py.coverage" NAME="Unittests in test1.py Coverage Results" MODIFIED="1496337942203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/learnPython$dataSender.coverage" NAME="dataSender Coverage Results" MODIFIED="1495956406100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../别人斗鱼弹幕爬取/Danmu/serverEnd" />
+    <SUITE FILE_PATH="coverage/learnPython$Python5v2excsv.coverage" NAME="Python爬虫5爬取v2ex数据用csv保存 Coverage Results" MODIFIED="1493646726197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test Coverage Results" MODIFIED="1491537666599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$Python6.coverage" NAME="Python爬虫6获取黑大验证码并登录 Coverage Results" MODIFIED="1493692342588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -76,15 +82,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="newtest.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/newtest.py">
+      <file leaf-file-name="使用斗鱼API爬取房间弹幕.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/斗鱼直播弹幕抓取/使用斗鱼API爬取房间弹幕.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            <state relative-caret-position="486">
+              <caret line="60" column="28" lean-forward="true" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
               <folding>
-                <element signature="e#15#37#0" expanded="true" />
-                <marker date="1496335933125" expanded="true" signature="2086:2200" ph="CREATE TABLE... DANMU" />
-                <marker date="1496335933125" expanded="true" signature="2817:2877" ph="INSERT INTO DANMU... " />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python基础示例代码/装饰器示例.py" />
         <option value="$PROJECT_DIR$/Python基础示例代码/斐波那契数列-装饰器.py" />
         <option value="$PROJECT_DIR$/Python基础示例代码/生成器.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记四：获取黑大验证码并登录.py" />
@@ -183,12 +186,13 @@
         <option value="$PROJECT_DIR$/利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb.py" />
         <option value="$PROJECT_DIR$/利用网址构造爬取斗鱼全部房间信息到Mongodb.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/Python爬取斗鱼房间信息和数据分析/斗鱼直播房间数据分析.py" />
-        <option value="$PROJECT_DIR$/test3.py" />
         <option value="$PROJECT_DIR$/Python基础代码/matplotlib示例1.py" />
         <option value="$PROJECT_DIR$/Python基础代码/socket学习.py" />
         <option value="$PROJECT_DIR$/.idea/test1.py" />
         <option value="$PROJECT_DIR$/newtest.py" />
+        <option value="$PROJECT_DIR$/test3.py" />
+        <option value="$PROJECT_DIR$/.idea/matplotlib示例1.py" />
+        <option value="$PROJECT_DIR$/Python爬取斗鱼房间信息和数据分析/斗鱼直播房间数据分析.py" />
       </list>
     </option>
   </component>
@@ -267,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests in test.py">
     <configuration default="false" name="斗鱼直播房间数据分析" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,6 +327,38 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in test2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -490,16 +526,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.斗鱼直播房间数据分析" />
       <item index="1" class="java.lang.String" itemvalue="Python.socket学习" />
       <item index="2" class="java.lang.String" itemvalue="Python.newtest" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test2.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test.py" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.newtest" />
-        <item index="1" class="java.lang.String" itemvalue="Python.socket学习" />
-        <item index="2" class="java.lang.String" itemvalue="Python.斗鱼直播房间数据分析" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test2.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.newtest" />
+        <item index="3" class="java.lang.String" itemvalue="Python.socket学习" />
+        <item index="4" class="java.lang.String" itemvalue="Python.斗鱼直播房间数据分析" />
       </list>
     </recent_temporary>
   </component>
@@ -516,20 +556,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
-    </task>
-    <task id="LOCAL-00011" summary="&#10;添加">
-      <created>1493471558888</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1493471558889</updated>
-    </task>
-    <task id="LOCAL-00012" summary="&#10;添加">
-      <created>1493533159715</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1493533159715</updated>
     </task>
     <task id="LOCAL-00013" summary="&#10;添加">
       <created>1493533169112</created>
@@ -860,16 +886,24 @@
       <option name="project" value="LOCAL" />
       <updated>1496338585206</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="sort">
+      <created>1496338663436</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1496338663436</updated>
+    </task>
+    <task id="LOCAL-00061" summary="sort">
+      <created>1496338730303</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1496338730303</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test1_py - 2017.06.02 at 01h 15m 44s.xml">
-      <configuration name="Unittests in test1.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test1_py - 2017.06.02 at 01h 17m 23s.xml">
-      <configuration name="Unittests in test1.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test1_py - 2017.06.02 at 01h 20m 06s.xml">
       <configuration name="Unittests in test1.py" configurationId="tests" />
     </history-entry>
@@ -894,6 +928,12 @@
     <history-entry file="Unittests_in_test2_py - 2017.06.02 at 01h 24m 27s.xml">
       <configuration name="Unittests in test2.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test2_py - 2017.06.02 at 01h 41m 07s.xml">
+      <configuration name="Unittests in test2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.06.02 at 01h 41m 15s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -916,7 +956,7 @@
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29077253" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29609543" sideWeight="0.48872858" order="14" side_tool="false" content_ui="tabs" x="373" y="796" width="1105" height="219" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2764977" sideWeight="0.3998441" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21030043" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21030043" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946351" sideWeight="0.5172798" order="2" side_tool="true" content_ui="tabs" />
@@ -1005,14 +1045,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Anaconda3/envs/pp3/Lib/site-packages/network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pydouyu-master/douyu/__init__.py" />
     <entry file="file://$PROJECT_DIR$/../pydouyu-master/douyu/chat/__init__.py" />
     <entry file="file://$PROJECT_DIR$/../pydouyu-master/douyu/chat/network/client.py" />
     <entry file="file://$PROJECT_DIR$/../pydouyu-master/douyu/chat/room.py" />
@@ -1070,7 +1102,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python基础代码/利用requests模块下载图片保存文件.py" />
-    <entry file="file://$PROJECT_DIR$/test3.py" />
     <entry file="file://$PROJECT_DIR$/测试1.py" />
     <entry file="file://$PROJECT_DIR$/Python基础代码/socket学习.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1087,13 +1118,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬取斗鱼房间信息和数据分析/斗鱼直播房间数据分析.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sever.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1102,18 +1126,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/test3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="90" column="59" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/matplotlib示例1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python爬取斗鱼房间信息和数据分析/斗鱼直播房间数据分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -1126,14 +1182,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newtest.py">
+    <entry file="file://$PROJECT_DIR$/斗鱼直播弹幕抓取/使用斗鱼API爬取房间弹幕.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        <state relative-caret-position="486">
+          <caret line="60" column="28" lean-forward="true" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
           <folding>
-            <element signature="e#15#37#0" expanded="true" />
-            <marker date="1496335933125" expanded="true" signature="2086:2200" ph="CREATE TABLE... DANMU" />
-            <marker date="1496335933125" expanded="true" signature="2817:2877" ph="INSERT INTO DANMU... " />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
