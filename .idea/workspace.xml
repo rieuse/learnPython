@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="斗鱼弹幕">
+    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,8 +80,8 @@
       <file leaf-file-name="使用斗鱼API爬取房间弹幕.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/斗鱼直播弹幕抓取/使用斗鱼API爬取房间弹幕.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="66" column="9" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+            <state relative-caret-position="210">
+              <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
               <folding>
                 <element signature="e#15#37#0" expanded="true" />
               </folding>
@@ -578,13 +578,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00015" summary="&#10;添加">
-      <created>1493628161724</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1493628161724</updated>
-    </task>
     <task id="LOCAL-00016" summary="&#10;添加">
       <created>1493650742724</created>
       <option name="number" value="00016" />
@@ -921,7 +914,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496369213180</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="斗鱼">
+      <created>1496370457337</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1496370457337</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1056,7 +1056,8 @@
     <MESSAGE value="修改socket学习" />
     <MESSAGE value="sort" />
     <MESSAGE value="斗鱼弹幕" />
-    <option name="LAST_COMMIT_MESSAGE" value="斗鱼弹幕" />
+    <MESSAGE value="斗鱼" />
+    <option name="LAST_COMMIT_MESSAGE" value="斗鱼" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1234,8 +1235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/斗鱼直播弹幕抓取/使用斗鱼API爬取房间弹幕.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="66" column="9" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+        <state relative-caret-position="210">
+          <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
           <folding>
             <element signature="e#15#37#0" expanded="true" />
           </folding>
