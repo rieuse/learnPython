@@ -1,69 +1,67 @@
+# 这个测试用与弹幕的抓取
+
+import multiprocessing
+import os
 import socket
+import sqlite3
 import time
-from pymongo import MongoClient
+from time import localtime
 
-client = MongoClient('localhost')
-db = client["Douyu2"]
-col = db["Roominfo"]
+import requests
+from bs4 import BeautifulSoup
 
-HOST = 'http://openbarrage.douyutv.com/'
-PORT = 8601
-RID = 606118
-# LOGIN_INFO = "type@=loginreq/username@=rieuse" + \
-#              "/password@=douyu/roomid@=" + str(RID) + "/"
-# JION_GROUP = "type@=joingroup/rid@=" + str(RID) + "/gid@=-9999" + "/"
-# ROOM_ID = "type@=qrl/rid@=" + str(RID) + "/"
-KEEP_ALIVE = "type@=keeplive/tick@=" + \
-             str(int(time.time())) + "/vbw@=0/k@=19beba41da8ac2b4c7895a66cab81e23/"
+client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
+host = socket.gethostbyname("openbarrage.douyutv.com")
+port = 8601
+client.connect((host, port))
+import re
 
-# s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+path = re.compile(b'txt@=(.+?)/cid@')
+uid_path = re.compile(b'nn@=(.+?)/txt@')
+level_path = re.compile(b'level@=([1-9][0-9]?)/egtt@')
 
 
-# def tranMsg(content):
-#     length = bytearray([len(content) + 9, 0x00, 0x00, 0x00])
-#     code = length
-#     magic = bytearray([0xb1, 0x02, 0x00, 0x00])
-#     end = bytearray([0x00])
-#     trscont = bytes(content.encode('utf-8'))
-#     return bytes(length + code + magic + trscont + end)
+def sendmsg(msgstr):
+    msg = msgstr.encode('utf-8')
+    data_length = len(msg) + 8
+    code = 689
+    msgHead = int.to_bytes(data_length, 4, 'little') \
+              + int.to_bytes(data_length, 4, 'little') + int.to_bytes(code, 4, 'little')
+    client.send(msgHead)
+    sent = 0
+    while sent < len(msg):
+        tn = client.send(msg[sent:])
+        sent = sent + tn
 
 
-def create_Conn():
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.connect((HOST, PORT))
-    RID = 606118
-    print("当前最热房间:", RID)
-    LOGIN_INFO = "type@=loginreq/username@=rieuse" + "/password@=douyu/roomid@=" + str(RID) + "/"
-    print(LOGIN_INFO)
-    JION_GROUP = "type@=joingroup/rid@=" + str(RID) + "/gid@=-9999" + "/"
-    print(JION_GROUP)
-    s.sendall(tranMsg(LOGIN_INFO))
-    s.sendall(tranMsg(JION_GROUP))
-    return s
+def start(roomid):
+    msg = 'type@=loginreq/username@=rieuse/password@=douyu/roomid@={}/\0'.format(roomid)
+    sendmsg(msg)
+    print(client.recv(1024))
+    msg_more = 'type@=joingroup/rid@={}/gid@=-9999/\0'.format(roomid)
+    sendmsg(msg_more)
+    print(client.recv(1024))
 
 
-def insert_msg(sock):
-    sendtime = 0
+def keeplive():
     while True:
-        if sendtime % 20 == 0:
-            print("----------Keep Alive---------")
-            try:
-                sock.sendall(tranMsg(KEEP_ALIVE))
-            except socket.error:
-                print("alive error")
-                sock = create_Conn()
-                insert_msg(sock)
-        sendtime += 1
-        print(sendtime)
-        try:
-            data = sock.recv(4000)
-        except socket.error:
-            print("chat error")
-            sock = create_Conn()
-            insert_msg(sock)
-        time.sleep(1)
+        msg = 'type@=keeplive/tick@=' + str(int(time.time())) + '/\0'
+        print('keeplive')
+        sendmsg(msg)
+        time.sleep(15)
+
+
+def get_name(roomid):
+    r = requests.get("http://www.douyu.com/" + roomid)
+    soup = BeautifulSoup(r.text, 'lxml')
+    return soup.find('a', {'class', 'zb-name'}).string
+
 
 
 if __name__ == '__main__':
-    insert_msg(create_Conn())
+    room_id = input("请输入房间ID：")
+    p1 = multiprocessing.Process(target=start, args=(room_id,))
+    p2 = multiprocessing.Process(target=keeplive)
+    p1.start()
+    p2.start()
