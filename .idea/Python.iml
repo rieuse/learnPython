@@ -9,6 +9,8 @@
     <orderEntry type="module" module-name="douyu-0.1.3" />
     <orderEntry type="module" module-name="pydouyu-master" />
     <orderEntry type="module" module-name="Danmu" />
+    <orderEntry type="module" module-name="DouYuTV" />
+    <orderEntry type="module" module-name="py2.7" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://E:\rieuse\别人斗鱼弹幕爬取\Danmu\.idea\Danmu.iml" filepath="E:\rieuse\别人斗鱼弹幕爬取\Danmu\.idea\Danmu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DouyuTV/.idea/DouYuTV.iml" filepath="$PROJECT_DIR$/../DouyuTV/.idea/DouYuTV.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python.iml" filepath="$PROJECT_DIR$/.idea/Python.iml" />
       <module fileurl="file://E:\rieuse\douyu-0.1.3\.idea\douyu-0.1.3.iml" filepath="E:\rieuse\douyu-0.1.3\.idea\douyu-0.1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py2.7/.idea/py2.7.iml" filepath="$PROJECT_DIR$/../py2.7/.idea/py2.7.iml" />
       <module fileurl="file://E:\rieuse\pydouyu-master\.idea\pydouyu-master.iml" filepath="E:\rieuse\pydouyu-master\.idea\pydouyu-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/../scrapystudy/.idea/scrapystudy.iml" filepath="$PROJECT_DIR$/../scrapystudy/.idea/scrapystudy.iml" />
       <module fileurl="file://E:/Programming/Python/代码收集/淘宝关键字搜索爬取数据储存到mongodb/.idea/淘宝关键字搜索爬取数据储存到mongodb.iml" filepath="E:/Programming/Python/代码收集/淘宝关键字搜索爬取数据储存到mongodb/.idea/淘宝关键字搜索爬取数据储存到mongodb.iml" />
