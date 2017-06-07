@@ -135,8 +135,8 @@
       <file leaf-file-name="Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="154" column="0" lean-forward="true" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+            <state relative-caret-position="508">
+              <caret line="156" column="14" lean-forward="true" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
                 <element signature="e#331#4314#0" expanded="false" />
@@ -596,13 +596,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00027" summary="增加">
-      <created>1493993233515</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1493993233515</updated>
-    </task>
     <task id="LOCAL-00028" summary="修改">
       <created>1494080165013</created>
       <option name="number" value="00028" />
@@ -939,7 +932,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496814919849</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="add">
+      <created>1496820164344</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1496820164344</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1073,10 +1073,10 @@
     <MESSAGE value="sort" />
     <MESSAGE value="加入协程" />
     <MESSAGE value="协程" />
-    <MESSAGE value="add" />
     <MESSAGE value="proxy" />
     <MESSAGE value="proxy add htpps" />
-    <option name="LAST_COMMIT_MESSAGE" value="proxy add htpps" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1313,8 +1313,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="154" column="0" lean-forward="true" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+        <state relative-caret-position="508">
+          <caret line="156" column="14" lean-forward="true" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <element signature="e#331#4314#0" expanded="false" />

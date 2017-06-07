@@ -2,6 +2,8 @@ import time
 import random
 import requests
 import pymongo
+import aiohttp
+import asyncio
 from bs4 import BeautifulSoup
 import multiprocessing
 
@@ -59,16 +61,16 @@ headers = {
 }
 
 proxies = {
-    'http': '123.206.6.17:8080',
-    # 'https':'123.206.6.17:80'
+    'http': 'http://123.206.6.17:3128',
+    'https': 'http://123.206.6.17:3128'
 }
 
 
-# 方式一：使用requests + BeautifulSoup
+# 方式一：使用常见的requests
 def method_1():
     start = time.time()
     for url in urls:
-        html = requests.get(url, headers=headers).text
+        html = requests.get(url, headers=headers, proxies=proxies).text
         soup = BeautifulSoup(html, 'lxml')
         title = soup.find_all(class_='title')
         app_title = soup.find_all(class_='app-title')
@@ -82,13 +84,20 @@ def method_1():
                 'icon_cover': icon_cover_i['data-original']
             }
             col.insert(content)
-            # print('成功插入一组数据' + str(content))
+            print('成功插入一组数据' + str(content))
     print('一共用时：' + str(time.time() - start))
 
 
-# 方式二：使用Requests + BeautifulSoup + Pool
+# if __name__ == '__main__':
+#     method_1()
+
+
+
+
+
+# 方式二：使用Requests + Pool
 def method_2(url):
-    html = requests.get(url, headers=headers).text
+    html = requests.get(url, headers=headers, proxies=proxies).text
     soup = BeautifulSoup(html, 'lxml')
     title = soup.find_all(class_='title')
     app_title = soup.find_all(class_='app-title')
@@ -103,13 +112,49 @@ def method_2(url):
         }
         # time.sleep(1)
         col.insert(content)
-        # print('成功插入一组数据' + str(content))
+        print('成功插入一组数据' + str(content))
+
+
+    # if __name__ == '__main__':
+    # start = time.time()
+    # pool = multiprocessing.Pool(4)
+    # pool.map(method_2, urls)
+    # pool.close()
+    # pool.join()
+    # print('一共用时：' + str(time.time() - start))
+
+
+# 方式三：使用Asyncio + Aiohttp python3.4之后出的异步io模块
+
+def method_3():
+    async def get_url(url):
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url) as html:
+                response = await html.text(encoding="utf-8")
+                return response
+
+    async def parser(url):
+        html = await get_url(url)
+        soup = BeautifulSoup(html, 'lxml')
+        title = soup.find_all(class_='title')
+        app_title = soup.find_all(class_='app-title')
+        item_cover = soup.find_all(class_='item-cover')
+        icon_cover = soup.select('div.list-wrap > ul > li > div.icon > img')
+        for title_i, app_title_i, item_cover_i, icon_cover_i in zip(title, app_title, item_cover, icon_cover):
+            content = {
+                'title': title_i.get_text(),
+                'app_title': app_title_i.get_text(),
+                'item_cover': item_cover_i['data-original'],
+                'icon_cover': icon_cover_i['data-original']
+            }
+            col.insert(content)
+            print('成功插入一组数据' + str(content))
+    start = time.time()
+    loop = asyncio.get_event_loop()
+    tasks = [parser(url) for url in urls]
+    loop.run_until_complete(asyncio.gather(*tasks))
+    print(time.time() - start)
 
 
 if __name__ == '__main__':
-    start = time.time()
-    pool = multiprocessing.Pool(4)
-    pool.map(method_2, urls)
-    pool.close()
-    pool.join()
-    print('一共用时：' + str(time.time() - start))
+    method_3()
