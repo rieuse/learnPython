@@ -115,13 +115,13 @@ def method_2(url):
         print('成功插入一组数据' + str(content))
 
 
-    # if __name__ == '__main__':
-    # start = time.time()
-    # pool = multiprocessing.Pool(4)
-    # pool.map(method_2, urls)
-    # pool.close()
-    # pool.join()
-    # print('一共用时：' + str(time.time() - start))
+        # if __name__ == '__main__':
+        # start = time.time()
+        # pool = multiprocessing.Pool(4)
+        # pool.map(method_2, urls)
+        # pool.close()
+        # pool.join()
+        # print('一共用时：' + str(time.time() - start))
 
 
 # 方式三：使用Asyncio + Aiohttp python3.4之后出的异步io模块
@@ -149,6 +149,7 @@ def method_3():
             }
             col.insert(content)
             print('成功插入一组数据' + str(content))
+
     start = time.time()
     loop = asyncio.get_event_loop()
     tasks = [parser(url) for url in urls]
