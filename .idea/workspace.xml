@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" afterPath="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,7 +86,7 @@
       <file leaf-file-name="用于测试1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/用于测试1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="325">
               <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -98,7 +98,7 @@
       <file leaf-file-name="用于测试2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/用于测试2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="100">
               <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
@@ -110,8 +110,8 @@
       <file leaf-file-name="技巧-使用代理请求网页.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="525">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -122,8 +122,8 @@
       <file leaf-file-name="异步IO学习.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python基础代码/异步IO学习.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="586">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -134,10 +134,11 @@
       <file leaf-file-name="Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state relative-caret-position="711">
+              <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#331#4249#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -193,7 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/te.py" />
         <option value="$PROJECT_DIR$/Python基础代码/Python中xpath详细使用示例.py" />
         <option value="$PROJECT_DIR$/Python基础代码/zip创建键值对.py" />
         <option value="$PROJECT_DIR$/test4.py" />
@@ -242,8 +242,9 @@
         <option value="$PROJECT_DIR$/用于测试2.py" />
         <option value="$PROJECT_DIR$/用于测试1.py" />
         <option value="$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py" />
-        <option value="$PROJECT_DIR$/Python基础代码/异步IO学习.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py" />
+        <option value="$PROJECT_DIR$/Python基础代码/异步IO学习.py" />
+        <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" />
       </list>
     </option>
   </component>
@@ -594,13 +595,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00029" summary="增加装饰器的例子">
-      <created>1494142434303</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1494142434303</updated>
-    </task>
     <task id="LOCAL-00030" summary="增加装饰器的例子">
       <created>1494143256421</created>
       <option name="number" value="00030" />
@@ -937,7 +931,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496820180055</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="加入三种方法爬取豌豆荚设计奖速度对比">
+      <created>1496820345129</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1496820345129</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -991,8 +992,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264642" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29077253" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22017354" sideWeight="0.48872858" order="14" side_tool="false" content_ui="tabs" x="373" y="796" width="1105" height="219" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2764977" sideWeight="0.3998441" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36334056" sideWeight="0.48872858" order="14" side_tool="false" content_ui="tabs" x="373" y="796" width="1105" height="219" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21083692" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1085,7 +1086,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/test1.py" />
     <entry file="file://$PROJECT_DIR$/sever.py" />
     <entry file="file://$PROJECT_DIR$/test3.py" />
     <entry file="file://$PROJECT_DIR$/.idea/matplotlib示例1.py" />
@@ -1264,7 +1264,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/用于测试1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="325">
           <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -1274,7 +1274,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/用于测试2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="100">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
@@ -1284,26 +1284,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="525">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py">
+    <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py" />
+    <entry file="file://D:/Anaconda3/envs/pp3/Lib/multiprocessing/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="158" column="26" lean-forward="true" selection-start-line="158" selection-start-column="26" selection-end-line="158" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python基础代码/异步IO学习.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="586">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
@@ -1312,10 +1313,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="711">
+          <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#331#4249#0" expanded="false" />
           </folding>
         </state>
       </provider>

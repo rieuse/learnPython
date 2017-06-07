@@ -1,11 +1,11 @@
-import time
-import random
-import requests
-import pymongo
-import aiohttp
 import asyncio
-from bs4 import BeautifulSoup
+import random
+import time
+import aiohttp
+import pymongo
+import requests
 import multiprocessing
+from bs4 import BeautifulSoup
 
 # 共用部分
 clients = pymongo.MongoClient('localhost')
@@ -26,7 +26,6 @@ UA_LIST = [
     "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; SE 2.X MetaSr 1.0; SE 2.X MetaSr 1.0; .NET CLR 2.0.50727; SE 2.X MetaSr 1.0)",
     "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3",
     "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3",
-    "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; 360SE)",
     "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3",
     "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3",
     "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3",
@@ -115,13 +114,13 @@ def method_2(url):
         print('成功插入一组数据' + str(content))
 
 
-        # if __name__ == '__main__':
-        # start = time.time()
-        # pool = multiprocessing.Pool(4)
-        # pool.map(method_2, urls)
-        # pool.close()
-        # pool.join()
-        # print('一共用时：' + str(time.time() - start))
+# if __name__ == '__main__':
+#     start = time.time()
+#     pool = multiprocessing.Pool(4)
+#     pool.map(method_2, urls)
+#     pool.close()
+#     pool.join()
+#     print('一共用时：' + str(time.time() - start))
 
 
 # 方式三：使用Asyncio + Aiohttp python3.4之后出的异步io模块
@@ -155,7 +154,6 @@ def method_3():
     tasks = [parser(url) for url in urls]
     loop.run_until_complete(asyncio.gather(*tasks))
     print(time.time() - start)
-
 
 if __name__ == '__main__':
     method_3()
