@@ -30,5 +30,4 @@ async def parser(url):
 loop = asyncio.get_event_loop()
 tasks = [parser(url) for url in list_url]
 loop.run_until_complete(asyncio.gather(*tasks))
-# end = time.time()
-# print(end - start)
+# print(time.time() - start)
