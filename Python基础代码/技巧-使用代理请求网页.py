@@ -1,8 +1,7 @@
 import requests
 
 proxies = {
-    # "http": "http://218.201.98.196:3128",
-    "https": "http://218.201.98.196:3128",
+    'http': '123.206.6.17:99'
 }
 r = requests.get("https://httpbin.org/ip", proxies=proxies)
 html = r.text
