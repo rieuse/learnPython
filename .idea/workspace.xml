@@ -4,7 +4,6 @@
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py" afterPath="$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py" afterPath="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,7 +49,7 @@
     <SUITE FILE_PATH="coverage/learnPython$5.coverage" NAME="测试5 Coverage Results" MODIFIED="1496391398239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DouYuTV/斗鱼直播弹幕抓取" />
     <SUITE FILE_PATH="coverage/learnPython$main.coverage" NAME="main Coverage Results" MODIFIED="1495378379141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Programming/Python/代码收集/proxy_pool-master/Run" />
     <SUITE FILE_PATH="coverage/learnPython$5__1_.coverage" NAME="测试5 (1) Coverage Results" MODIFIED="1496391949054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../py2.7" />
-    <SUITE FILE_PATH="coverage/learnPython$_.coverage" NAME="技巧-使用代理请求网页 Coverage Results" MODIFIED="1496804991421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础代码" />
+    <SUITE FILE_PATH="coverage/learnPython$_.coverage" NAME="技巧-使用代理请求网页 Coverage Results" MODIFIED="1496813381612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础代码" />
     <SUITE FILE_PATH="coverage/learnPython$Unittests_in_1_py.coverage" NAME="Unittests in 用于测试1.py Coverage Results" MODIFIED="1496799934501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$Mongodb.coverage" NAME="爬取斗鱼全部房间信息保存到Mongodb Coverage Results" MODIFIED="1495960300449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$zip.coverage" NAME="zip创建键值对 Coverage Results" MODIFIED="1495262545734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础代码" />
@@ -108,12 +107,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="技巧-使用代理请求网页.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="技巧-使用代理请求网页.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="425">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,14 +131,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+            <state relative-caret-position="375">
+              <caret line="61" column="25" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="25" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <element signature="e#302#4285#0" expanded="false" />
+                <element signature="e#301#4284#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -242,8 +243,8 @@
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：爬取豌豆荚设计奖三种方法加速爬取效率对比.py" />
         <option value="$PROJECT_DIR$/用于测试2.py" />
         <option value="$PROJECT_DIR$/用于测试1.py" />
-        <option value="$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py" />
+        <option value="$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py" />
       </list>
     </option>
   </component>
@@ -594,13 +595,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00023" summary="修改代码">
-      <created>1493700929043</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1493700929043</updated>
-    </task>
     <task id="LOCAL-00024" summary="修改代码">
       <created>1493991572437</created>
       <option name="number" value="00024" />
@@ -937,7 +931,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496746871812</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="add">
+      <created>1496805088829</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1496805088830</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -991,7 +992,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264642" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29077253" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2527115" sideWeight="0.48872858" order="14" side_tool="false" content_ui="tabs" x="373" y="796" width="1105" height="219" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37744033" sideWeight="0.48872858" order="14" side_tool="false" content_ui="tabs" x="373" y="796" width="1105" height="219" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2764977" sideWeight="0.3998441" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21083692" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1049,7 +1050,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/learnPython" />
     </ignored-roots>
-    <MESSAGE value="ok" />
     <MESSAGE value="&#10;添加" />
     <MESSAGE value="爬取黑龙江大学登录验证码配合帐号登录，返回登录后的主页面" />
     <MESSAGE value="整理代码" />
@@ -1074,7 +1074,8 @@
     <MESSAGE value="sort" />
     <MESSAGE value="加入协程" />
     <MESSAGE value="协程" />
-    <option name="LAST_COMMIT_MESSAGE" value="协程" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1299,21 +1300,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py">
+    <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="375">
+          <caret line="61" column="25" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#301#4284#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py">
+    <entry file="file://$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#302#4285#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
