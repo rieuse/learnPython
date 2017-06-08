@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python基础代码/异步IO学习.py" afterPath="$PROJECT_DIR$/Python基础代码/异步IO学习.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" afterPath="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -124,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/Python基础代码/异步IO学习.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="31" />
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="32" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -132,11 +130,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="129" column="61" lean-forward="false" selection-start-line="129" selection-start-column="61" selection-end-line="129" selection-end-column="61" />
+            <state relative-caret-position="586">
+              <caret line="136" column="42" lean-forward="true" selection-start-line="136" selection-start-column="42" selection-end-line="136" selection-end-column="42" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
                 <element signature="e#331#4249#0" expanded="false" />
@@ -145,11 +143,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aiohttp的使用.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="aiohttp的使用.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python基础代码/aiohttp的使用.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -606,13 +604,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00031" summary="增加算法">
-      <created>1494850355392</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1494850355392</updated>
-    </task>
     <task id="LOCAL-00032" summary="增加算法">
       <created>1494939285103</created>
       <option name="number" value="00032" />
@@ -949,7 +940,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496849584130</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="异步IO">
+      <created>1496881458113</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1496881458115</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1061,7 +1059,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/learnPython" />
     </ignored-roots>
-    <MESSAGE value="修改代码" />
     <MESSAGE value="增加爬虫五" />
     <MESSAGE value="增加" />
     <MESSAGE value="增加装饰器的例子" />
@@ -1086,7 +1083,8 @@
     <MESSAGE value="proxy add htpps" />
     <MESSAGE value="add" />
     <MESSAGE value="加入三种方法爬取豌豆荚设计奖速度对比" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入三种方法爬取豌豆荚设计奖速度对比" />
+    <MESSAGE value="异步IO" />
+    <option name="LAST_COMMIT_MESSAGE" value="异步IO" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1310,18 +1308,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础代码/aiohttp的使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python基础代码/异步IO学习.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="31" />
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="32" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
@@ -1330,12 +1320,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="129" column="61" lean-forward="false" selection-start-line="129" selection-start-column="61" selection-end-line="129" selection-end-column="61" />
+        <state relative-caret-position="586">
+          <caret line="136" column="42" lean-forward="true" selection-start-line="136" selection-start-column="42" selection-end-line="136" selection-end-column="42" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
             <element signature="e#331#4249#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础代码/aiohttp的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
