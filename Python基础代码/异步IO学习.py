@@ -25,6 +25,8 @@ async def parser(url):
 # 给一个函数添加了async关键字，就会把它变成一个异步函数
 # 每个线程有一个事件循环，主线程调用asyncio.get_event_loop时会创建事件循环
 # 把异步的任务丢给这个循环的run_until_complete方法，事件循环会安排协同程序的执行
+# async关键字将一个函数声明为协程函数，函数执行时返回一个协程对象。
+# await关键字将暂停协程函数的执行，等待异步IO返回结果。
 
 # start = time.time()
 loop = asyncio.get_event_loop()

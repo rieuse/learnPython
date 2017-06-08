@@ -127,9 +127,9 @@ def method_2(url):
 
 def method_3():
     async def get_url(url):
-        async with aiohttp.ClientSession() as session:
+        async with aiohttp.ClientSession() as session:  # async关键字将一个函数声明为协程函数，函数执行时返回一个协程对象。
             async with session.get(url) as html:
-                response = await html.text(encoding="utf-8")
+                response = await html.text(encoding="utf-8")  # await关键字将暂停协程函数的执行，等待异步IO返回结果。
                 return response
 
     async def parser(url):
