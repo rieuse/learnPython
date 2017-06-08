@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python基础代码/aiohttp的使用.py" afterPath="$PROJECT_DIR$/Python基础代码/aiohttp的使用.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -146,8 +147,8 @@
       <file leaf-file-name="aiohttp的使用.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python基础代码/aiohttp的使用.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            <state relative-caret-position="75">
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -203,7 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python基础代码/Python中xpath详细使用示例.py" />
         <option value="$PROJECT_DIR$/Python基础代码/zip创建键值对.py" />
         <option value="$PROJECT_DIR$/test4.py" />
         <option value="$PROJECT_DIR$/爬取花瓣妹子缩略图.py" />
@@ -254,6 +254,7 @@
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py" />
         <option value="$PROJECT_DIR$/Python基础代码/异步IO学习.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" />
+        <option value="$PROJECT_DIR$/Python基础代码/aiohttp的使用.py" />
       </list>
     </option>
   </component>
@@ -604,13 +605,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00032" summary="增加算法">
-      <created>1494939285103</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1494939285103</updated>
-    </task>
     <task id="LOCAL-00033" summary="增加算法">
       <created>1495001533004</created>
       <option name="number" value="00033" />
@@ -947,7 +941,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496881458115</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="aiohttp示例代码">
+      <created>1496881571370</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1496881571371</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1059,7 +1060,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/learnPython" />
     </ignored-roots>
-    <MESSAGE value="增加爬虫五" />
     <MESSAGE value="增加" />
     <MESSAGE value="增加装饰器的例子" />
     <MESSAGE value="增加算法" />
@@ -1084,7 +1084,8 @@
     <MESSAGE value="add" />
     <MESSAGE value="加入三种方法爬取豌豆荚设计奖速度对比" />
     <MESSAGE value="异步IO" />
-    <option name="LAST_COMMIT_MESSAGE" value="异步IO" />
+    <MESSAGE value="aiohttp示例代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="aiohttp示例代码" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1331,8 +1332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python基础代码/aiohttp的使用.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="75">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
