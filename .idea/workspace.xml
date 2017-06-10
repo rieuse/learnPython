@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/entrypoint.py" afterPath="$PROJECT_DIR$/../scrapystudy/entrypoint.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/scrapystudy/items.py" afterPath="$PROJECT_DIR$/../scrapystudy/scrapystudy/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/scrapystudy/pipelines.py" afterPath="$PROJECT_DIR$/../scrapystudy/scrapystudy/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py" afterPath="$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py" afterPath="$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,7 +87,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Scrapy爬虫1：斗图网站最新表情批量抓取.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Scrapy爬虫1：斗图网站最新表情批量抓取.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="650">
@@ -107,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/items.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#151#164#0" expanded="true" />
               </folding>
@@ -119,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="407">
-              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="14" />
+              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding>
                 <element signature="e#718#4636#0" expanded="false" />
               </folding>
@@ -127,7 +123,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
@@ -241,8 +237,8 @@
         <option value="$PROJECT_DIR$/../scrapystudy/entrypoint.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/scrapystudy/items.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py" />
-        <option value="$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/scrapystudy/pipelines.py" />
+        <option value="$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py" />
       </list>
     </option>
   </component>
@@ -667,13 +663,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00036" summary="爬虫6">
-      <created>1495204572266</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1495204572266</updated>
-    </task>
     <task id="LOCAL-00037" summary="爬虫6">
       <created>1495277904495</created>
       <option name="number" value="00037" />
@@ -1010,7 +999,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497100655580</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="repair">
+      <created>1497107220655</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1497107220655</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1442,22 +1438,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py">
+    <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        <state relative-caret-position="350">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#151#164#0" expanded="true" />
+            <element signature="e#192#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1465,19 +1451,29 @@
     <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="14" />
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding>
             <element signature="e#718#4636#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="375">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="e#192#207#0" expanded="true" />
+            <element signature="e#151#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
