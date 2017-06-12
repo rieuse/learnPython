@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-
-# Define here the models for your spider middleware
-#
-# See documentation in:
-# http://doc.scrapy.org/en/latest/topics/spider-middleware.html
-
 from scrapy import signals
 import random
 from scrapy.downloadermiddlewares.useragent import UserAgentMiddleware
@@ -19,9 +13,6 @@ class RotateUserAgentMiddleware(UserAgentMiddleware):
         if ua:
             print(ua)
             request.headers.setdefault('User-Agent', ua)
-
-    # the default user_agent_list composes chrome,IE,firefox,Mozilla,opera,netscape
-    # for more user agent strings,you can find it in http://www.useragentstring.com/pages/useragentstring.php
     user_agent_list = [
         "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"
         "Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11",
@@ -41,7 +32,7 @@ class RotateUserAgentMiddleware(UserAgentMiddleware):
         "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3",
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24",
         "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24"
-    ]
+    ]  # 此处是ua的列表，因为太多我就不展开了
 
 
 class DoutuSpiderMiddleware(object):

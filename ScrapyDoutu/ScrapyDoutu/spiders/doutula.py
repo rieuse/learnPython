@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
-
 import scrapy
 import requests
-
 from ScrapyDoutu.items import DoutuItems
 
 
