@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="完善,抓取斗图图片">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/middlewares.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/spiders/doutula.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScrapyDoutu/entrypoint.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScrapyDoutu/scrapy.cfg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapystudy/entrypoint.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapystudy/scrapy.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapystudy/scrapystudy/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapystudy/scrapystudy/items.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapystudy/scrapystudy/middlewares.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapystudy/scrapystudy/pipelines.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapystudy/scrapystudy/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapystudy/scrapystudy/spiders/__init__.py" afterPath="" />
+    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="sort">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：爬取豌豆荚设计奖三种方法加速爬取效率对比.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/scrapystudy/items.py" afterPath="$PROJECT_DIR$/../scrapystudy/scrapystudy/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/scrapystudy/middlewares.py" afterPath="$PROJECT_DIR$/../scrapystudy/scrapystudy/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py" afterPath="$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/settings.py" afterPath="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py" afterPath="$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,11 +89,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Scrapy爬虫1：斗图网站最新表情批量抓取.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Scrapy爬虫1：斗图网站最新表情批量抓取.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="600">
+              <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -132,11 +113,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py">
+      <file leaf-file-name="Python爬虫日记九：爬取豌豆荚设计奖三种方法加速爬取效率对比.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：爬取豌豆荚设计奖三种方法加速爬取效率对比.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+            <state relative-caret-position="313">
+              <caret line="149" column="44" lean-forward="true" selection-start-line="149" selection-start-column="44" selection-end-line="149" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doutula.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/spiders/doutula.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -187,7 +202,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../scrapystudy" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
@@ -208,7 +223,6 @@
         <option value="$PROJECT_DIR$/4hu.py" />
         <option value="$PROJECT_DIR$/hu/4hu.py" />
         <option value="$PROJECT_DIR$/Python基础代码/协程的例子.py" />
-        <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：爬取豌豆荚设计奖三种方法加速爬取效率对比.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法效率对比.py" />
         <option value="$PROJECT_DIR$/Python基础代码/异步IO学习.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" />
@@ -242,10 +256,11 @@
         <option value="$PROJECT_DIR$/doutula/doutula/spiders/doutu.py" />
         <option value="E:/doutu/doutu/spiders/斗图.py" />
         <option value="$PROJECT_DIR$/doutu/doutu/spiders/doutula.py" />
-        <option value="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/settings.py" />
         <option value="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/spiders/doutula.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py" />
+        <option value="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/settings.py" />
+        <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：爬取豌豆荚设计奖三种方法加速爬取效率对比.py" />
       </list>
     </option>
   </component>
@@ -626,13 +641,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00044" summary="整理">
-      <created>1495611125591</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1495611125591</updated>
-    </task>
     <task id="LOCAL-00045" summary="整理">
       <created>1495628434276</created>
       <option name="number" value="00045" />
@@ -969,7 +977,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497192214898</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="sort">
+      <created>1497231978525</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1497231978526</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1103,12 +1118,12 @@
     <MESSAGE value="加入三种方法爬取豌豆荚设计奖速度对比" />
     <MESSAGE value="异步IO" />
     <MESSAGE value="aiohttp示例代码" />
-    <MESSAGE value="sort" />
     <MESSAGE value="repair" />
     <MESSAGE value="爬取斗图网站图片" />
     <MESSAGE value="完善,抓取图片" />
     <MESSAGE value="完善,抓取斗图图片" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善,抓取斗图图片" />
+    <MESSAGE value="sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="sort" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1119,27 +1134,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/Programming/Python/代码收集/aiohttp的使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础代码/yield练习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/用于测试2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -1178,13 +1172,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：最新斗图表情批量抓取.py" />
-    <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记七：批量抓取花瓣网高清美图并保存.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="65" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/用于测试1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1403,6 +1390,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/spiders/doutula.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1411,21 +1416,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/spiders/doutula.py">
+    <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-425">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py">
+    <entry file="file://$PROJECT_DIR$/doutula/doutula/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        <state relative-caret-position="-300">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1439,12 +1452,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py">
+    <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记七：批量抓取花瓣网高清美图并保存.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="270">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="65" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：爬取豌豆荚设计奖三种方法加速爬取效率对比.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="149" column="44" lean-forward="true" selection-start-line="149" selection-start-column="44" selection-end-line="149" selection-end-column="44" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
