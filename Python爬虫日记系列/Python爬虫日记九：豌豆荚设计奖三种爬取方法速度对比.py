@@ -6,6 +6,7 @@ import time
 import aiohttp
 import pymongo
 import requests
+import multiprocessing
 from bs4 import BeautifulSoup
 
 # 共用部分
