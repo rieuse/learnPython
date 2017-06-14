@@ -71,7 +71,7 @@ def get_products():
                 'price': item.find(class_='a-size-base a-color-price s-price a-text-bold').get_text(),
                 'date': time
             }
-            save_to_mongo(product)
+            # save_to_mongo(product)
             print(product)
     except Exception as e:
         print(e)
@@ -87,8 +87,7 @@ def save_to_mongo(result):
 
 def main():
     try:
-        total = search()
-        total = int(re.compile('(\d+)').search(total).group(1))
+        total = int(search())
         for i in range(2, total + 1):
             next_page(i)
     except Exception as e:
