@@ -1,10 +1,11 @@
+__author__ = '布咯咯_rieuse'
+
 import asyncio
 import random
 import time
 import aiohttp
 import pymongo
 import requests
-import multiprocessing
 from bs4 import BeautifulSoup
 
 # 共用部分
