@@ -114,5 +114,3 @@ def another(url):
 
 if __name__ == '__main__':
     get_url()
-    # url = 'http://www.ximalaya.com/52556365/album/4512647'
-    # another(url)
