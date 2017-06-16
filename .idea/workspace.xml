@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/Python抓取喜马拉雅电台音频.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/middlewares.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/spiders/ximalaya.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/scrapy.cfg" />
+    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="scrapy">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py" afterPath="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/settings.py" afterPath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/spiders/ximalaya.py" afterPath="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/spiders/ximalaya.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -114,8 +108,8 @@
       <file leaf-file-name="ximalaya.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/spiders/ximalaya.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="500">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -126,18 +120,18 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding>
                 <element signature="e#192#206#0" expanded="true" />
               </folding>
@@ -148,8 +142,8 @@
       <file leaf-file-name="Python抓取喜马拉雅电台音频.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/Python抓取喜马拉雅电台音频.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="87" column="26" lean-forward="false" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
+            <state relative-caret-position="-782">
+              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
                 <element signature="e#518#4436#0" expanded="false" />
@@ -160,11 +154,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="异步抓取喜马拉雅电台音频.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="异步抓取喜马拉雅电台音频.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="83" column="48" lean-forward="false" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
+            <state relative-caret-position="661">
+              <caret line="149" column="0" lean-forward="true" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
                 <element signature="e#273#489#0" expanded="false" />
@@ -244,7 +238,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../scrapystudy" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
@@ -298,11 +292,11 @@
         <option value="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/items.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/测试2.py" />
         <option value="$PROJECT_DIR$/Python抓取喜马拉雅电台音频.py" />
-        <option value="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/测试1.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/pipelines.py" />
-        <option value="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/settings.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/spiders/ximalaya.py" />
+        <option value="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/settings.py" />
+        <option value="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py" />
       </list>
     </option>
   </component>
@@ -683,13 +677,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00059" summary="sort">
-      <created>1496338585205</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1496338585206</updated>
-    </task>
     <task id="LOCAL-00060" summary="sort">
       <created>1496338663436</created>
       <option name="number" value="00060" />
@@ -1026,7 +1013,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497619711651</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="scrapy">
+      <created>1497619790851</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1497619790851</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1442,24 +1436,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py">
+    <entry file="file://$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/spiders/ximalaya.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="83" column="48" lean-forward="false" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
+        <state relative-caret-position="500">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#273#489#0" expanded="false" />
-            <element signature="e#548#4466#0" expanded="false" />
-            <element signature="e#4478#4820#0" expanded="false" />
-            <element signature="e#4832#5225#0" expanded="false" />
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <element signature="e#192#206#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/Python抓取喜马拉雅电台音频.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="87" column="26" lean-forward="false" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
+        <state relative-caret-position="-782">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <element signature="e#518#4436#0" expanded="false" />
@@ -1469,30 +1477,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/settings.py">
+    <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/spiders/ximalaya.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="661">
+          <caret line="149" column="0" lean-forward="true" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
           <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#192#206#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#273#489#0" expanded="false" />
+            <element signature="e#548#4466#0" expanded="false" />
+            <element signature="e#4478#4820#0" expanded="false" />
+            <element signature="e#4832#5225#0" expanded="false" />
           </folding>
         </state>
       </provider>
