@@ -1,3 +1,5 @@
+__author__ = '布咯咯_rieuse'
+
 import json
 import random
 import time

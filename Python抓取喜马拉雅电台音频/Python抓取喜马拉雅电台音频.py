@@ -1,8 +1,12 @@
+__author__ = '布咯咯_rieuse'
+
 import json
 import random
 import time
 import pymongo
 import requests
+import aiohttp
+import asyncio
 from bs4 import BeautifulSoup
 from lxml import etree
 
@@ -10,10 +14,7 @@ clients = pymongo.MongoClient('localhost')
 db = clients["XiMaLaYa"]
 col1 = db["album2"]
 col2 = db["detaile2"]
-# cookies = {
-#     'Cookie': '_xmLog=xm_1497536646561_j3yinjq9yfbobs; trackType=web; x_xmly_traffic=utm_source%3A%26utm_medium%3A%26utm_campaign%3A%26utm_content%3A%26utm_term%3A%26utm_from%3A; _ga=GA1.2.1494610706.1497536647',
-# }
-# start_url = 'http://www.ximalaya.com/dq/all/'
+
 UA_LIST = [
     "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1",
     "Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11",
@@ -71,8 +72,7 @@ headers2 = {
     'User-Agent': random.choice(UA_LIST)
 }
 
-
-# content = {}
+parser_url = []
 
 
 def get_url():
@@ -100,10 +100,10 @@ def another(url):
         num = ifanother[0]
         print('本频道资源存在' + num + '个页面')
         for n in range(1, int(num)):
-            print('开始解析第{}个页面'.format(n))
+            print('开始解析{}个中的第{}个页面'.format(num, n))
             url2 = url + '?page={}'.format(n)
             get_m4a(url2)
-    get_m4a(url)
+        get_m4a(url)
 
 
 def get_m4a(url):
@@ -116,7 +116,7 @@ def get_m4a(url):
         dic = json.loads(html)
         col2.insert(dic)
         print(murl + '中的数据已被成功插入mongodb')
-        # print(dic)
+
 
 if __name__ == '__main__':
     get_url()
