@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
+    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="commit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/Python抓取喜马拉雅电台音频.py" afterPath="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/Python抓取喜马拉雅电台音频.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py" afterPath="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python爬虫日记系列/Python爬取日记十：抓取喜马拉雅电台音频.py" afterPath="$PROJECT_DIR$/Python爬虫日记系列/Python爬取日记十：抓取喜马拉雅电台音频.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/用于测试3.py" afterPath="$PROJECT_DIR$/用于测试3.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,28 +94,38 @@
       <file leaf-file-name="异步抓取喜马拉雅电台音频.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="79" column="83" lean-forward="true" selection-start-line="79" selection-start-column="83" selection-end-line="79" selection-end-column="88" />
+            <state relative-caret-position="125">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
-                <element signature="e#28#39#0" expanded="true" />
-                <element signature="e#302#4220#0" expanded="false" />
-                <element signature="e#4232#4574#0" expanded="false" />
-                <element signature="e#4586#4979#0" expanded="false" />
+                <element signature="e#27#38#0" expanded="true" />
+                <element signature="e#301#4219#0" expanded="false" />
+                <element signature="e#4231#4573#0" expanded="false" />
+                <element signature="e#4585#4978#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Python抓取喜马拉雅电台音频.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="用于测试3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/用于测试3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python抓取喜马拉雅电台音频.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/Python抓取喜马拉雅电台音频.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="93" column="35" lean-forward="true" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+            <state relative-caret-position="950">
+              <caret line="91" column="35" lean-forward="true" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
               <folding>
-                <element signature="e#28#39#0" expanded="true" />
-                <element signature="e#302#4220#0" expanded="false" />
-                <element signature="e#4232#4574#0" expanded="false" />
-                <element signature="e#4586#4979#0" expanded="false" />
+                <element signature="e#27#38#0" expanded="true" />
+                <element signature="e#301#4219#0" expanded="false" />
+                <element signature="e#4231#4573#0" expanded="false" />
+                <element signature="e#4585#4978#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -127,12 +135,12 @@
         <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬取日记十：抓取喜马拉雅电台音频.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+              <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding>
-                <element signature="e#28#39#0" expanded="true" />
-                <element signature="e#272#4190#0" expanded="false" />
-                <element signature="e#4202#4544#0" expanded="false" />
-                <element signature="e#4556#4949#0" expanded="false" />
+                <element signature="e#27#38#0" expanded="true" />
+                <element signature="e#271#4189#0" expanded="false" />
+                <element signature="e#4201#4543#0" expanded="false" />
+                <element signature="e#4555#4948#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -252,7 +260,6 @@
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" />
         <option value="$PROJECT_DIR$/用于测试4.py" />
         <option value="$PROJECT_DIR$/用于测试2.py" />
-        <option value="$PROJECT_DIR$/用于测试3.py" />
         <option value="$PROJECT_DIR$/YY直播数据抓取.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/middlewares.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/喜马拉雅xpath.py" />
@@ -269,6 +276,7 @@
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬取日记十：抓取喜马拉雅电台音频.py" />
         <option value="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py" />
         <option value="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/Python抓取喜马拉雅电台音频.py" />
+        <option value="$PROJECT_DIR$/用于测试3.py" />
       </list>
     </option>
   </component>
@@ -342,11 +350,6 @@
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="SearchEverywhereHistoryKey" value="黑&#9;FILE&#9;file://E:/rieuse/learnPython/Python爬虫日记四：获取黑大验证码并登录.py" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-  </component>
-  <component name="Push.Settings">
-    <excluded-roots>
-      <path value="$PROJECT_DIR$" />
-    </excluded-roots>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -678,13 +681,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
-    </task>
-    <task id="LOCAL-00067" summary="斗鱼">
-      <created>1496380157733</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1496380157733</updated>
     </task>
     <task id="LOCAL-00068" summary="sort">
       <created>1496653121746</created>
@@ -1022,7 +1018,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497744148003</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="commit">
+      <created>1497745008937</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1497745008937</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1262,13 +1265,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/用于测试3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/用于测试2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1475">
@@ -1485,39 +1481,47 @@
     <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬取日记十：抓取喜马拉雅电台音频.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding>
-            <element signature="e#28#39#0" expanded="true" />
-            <element signature="e#272#4190#0" expanded="false" />
-            <element signature="e#4202#4544#0" expanded="false" />
-            <element signature="e#4556#4949#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="79" column="83" lean-forward="true" selection-start-line="79" selection-start-column="83" selection-end-line="79" selection-end-column="88" />
-          <folding>
-            <element signature="e#28#39#0" expanded="true" />
-            <element signature="e#302#4220#0" expanded="false" />
-            <element signature="e#4232#4574#0" expanded="false" />
-            <element signature="e#4586#4979#0" expanded="false" />
+            <element signature="e#27#38#0" expanded="true" />
+            <element signature="e#271#4189#0" expanded="false" />
+            <element signature="e#4201#4543#0" expanded="false" />
+            <element signature="e#4555#4948#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/Python抓取喜马拉雅电台音频.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="93" column="35" lean-forward="true" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+        <state relative-caret-position="950">
+          <caret line="91" column="35" lean-forward="true" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
           <folding>
-            <element signature="e#28#39#0" expanded="true" />
-            <element signature="e#302#4220#0" expanded="false" />
-            <element signature="e#4232#4574#0" expanded="false" />
-            <element signature="e#4586#4979#0" expanded="false" />
+            <element signature="e#27#38#0" expanded="true" />
+            <element signature="e#301#4219#0" expanded="false" />
+            <element signature="e#4231#4573#0" expanded="false" />
+            <element signature="e#4585#4978#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#27#38#0" expanded="true" />
+            <element signature="e#301#4219#0" expanded="false" />
+            <element signature="e#4231#4573#0" expanded="false" />
+            <element signature="e#4585#4978#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/用于测试3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
