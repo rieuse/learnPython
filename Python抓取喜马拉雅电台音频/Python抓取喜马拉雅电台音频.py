@@ -72,8 +72,6 @@ headers2 = {
     'User-Agent': random.choice(UA_LIST)
 }
 
-parser_url = []
-
 
 def get_url():
     start_urls = ['http://www.ximalaya.com/dq/all/{}'.format(num) for num in range(1, 85)]
