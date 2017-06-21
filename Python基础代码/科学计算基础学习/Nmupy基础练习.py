@@ -32,15 +32,39 @@ baseball = [[180, 78.4],
             [188, 75.2]]
 
 # 用二维列表baseball创建二维数组 np_baseball
-np_baseball = np.array(baseball)
+# np_baseball = np.array(baseball)
 # 打印输出 np_baseball 的类型
-print(type(np_baseball))
+# print(type(np_baseball))
 # 打印输出 np_baseball的shape属性
-print(np_baseball.shape)
+# print(np_baseball.shape)
 # 打印输出第3行的数据
-print(np_baseball[2])
+# print(np_baseball[2])
 # 打印输出第二列体总数据
-print(np_baseball[:, 1])
+# print(np_baseball[:, 1])
 # 打印输出第4名运动员的身高
-print(np_baseball[3][0])
-print(np_baseball[3, 0])
+# print(np_baseball[3][0])
+# print(np_baseball[3, 0])
+
+
+# 综合练习：找出足球运动中守门员和其他运动员的身高的中位数。
+
+# 创建足球运动员的位置和对应的身高数据
+positions = ['GK', 'M', 'A', 'D', 'M', 'D', 'M', 'M', 'M', 'A', 'M', 'M', 'A', 'A', 'A', 'M', 'D', 'A', 'D', 'M', 'GK',
+             'D', 'D', 'M', 'M', 'M', 'M', 'D', 'M', 'GK']
+heights = [191, 184, 185, 180, 181, 187, 170, 179, 183, 186, 185, 170, 187, 183, 173, 188, 183, 180, 188, 175, 193, 180,
+           185, 170, 183, 173, 185, 185, 168, 190]
+
+# 将列表 positions 和 heights 分别转化成numpy数组: np_positions, np_heights
+np_positions = np.array(positions)
+np_heights = np.array(heights)
+# 将守门员的身高数据存入变量 gk_heights， 守门员对应的位置编码是’GK‘
+gk_heights = np_heights[np_positions == 'GK']  # 两次函数来取值
+print(gk_heights)
+# 将守门员之外的其他运动员的身高数据存入变量 other_heights
+other_heights = np_heights[np_positions != 'GK']
+print(other_heights)
+# 打印输出守门员身高的中位数
+print("Median height of goalkeepers: " + str(np.median(gk_heights)))
+
+# 打印输出其他运动员身高的中位数
+print("Median height of other players: " + str(np.median(other_heights)))
