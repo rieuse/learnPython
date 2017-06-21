@@ -192,14 +192,60 @@ a = np.arange(12).reshape(4, 3)
 
 
 """"数组的类型转换"""
-# 数组转换成list，使用tolist()
-b = np.arange(12).reshape(2, 6)
-print(b.tolist())
-print(type(b.tolist()))
-# 不会改变原来的numpy数组
+# 数组转换成list，使用tolist() 不会改变原来的numpy数组
+# b = np.arange(12).reshape(2, 6)
+# print(b.tolist())
+# print(type(b.tolist()))
+
+# 转换成指定类型，astype()函数
+# print(b.astype(float))
 
 
-'''一些简单练习'''
+
+"""numpy常用统计函数"""
+# 请注意函数在使用时需要指定axis轴的方向，若不指定，默认统计整个数组。
+
+# np.sum()，返回求和
+# np.mean()，返回均值
+
+# np.max()，返回最大值
+# print(np.max(b))
+# 沿axis=1轴方向统计
+# np.max(b,axis=1)
+# 沿axis=0轴方向统计
+# np.max(b,axis=0)
+
+# np.min()，返回最小值
+# print(np.min(b))
+
+# np.ptp()，数组沿指定轴返回最大值减去最小值，即（max-min）
+# print(np.ptp(b))
+
+# np.std()，返回标准偏差（standard deviation）
+# np.var()，返回方差（variance）
+
+# np.cumsum()，返回累加值
+# print(np.cumsum(b, axis=1))
+
+# np.cumprod()，返回累乘积值
+# print(np.cumprod(b,axis=1))
+# print(np.cumprod(b,axis=0))
+
+
+
+"""数组的广播"""
+# 当数组跟一个标量进行数学运算时，标量需要根据数组的形状进行扩展，然后执行运算。
+# 这个扩展的过程称为“广播（broadcasting）”
+
+# b = np.arange(12).reshape(2, 6)
+# d = b + 2
+# print(d)
+
+
+
+
+
+""""一些简单练习"""
 
 # weight = [65.4, 59.2, 63.6, 88.4, 68.7]  #体重列表
 # height = [1.73, 1.68, 1.71, 1.89, 1.79]  #身高列表
