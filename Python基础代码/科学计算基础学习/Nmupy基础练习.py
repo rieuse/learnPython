@@ -34,6 +34,63 @@ import numpy as np
 # print(arr)
 '''请注意：arange的长度与ndarray的维度的乘积要相等，即 24 = 2X3X4'''
 
+'''ndarray数组的属性'''
+# np.arange(4, dtype=float)
+
+# # 'D'表示复数类型
+# np.arange(4, dtype='D')
+# np.array([1.22,3.45,6.779], dtype='int8')
+
+# ndim属性，数组维度的数量
+# a = np.array([[1,2,3], [7,8,9]])
+# print(a.ndim)
+
+# shape属性，数组对象的尺度，对于矩阵，即n行m列,shape是一个元组（tuple）
+# print(a.shape)
+
+# size属性用来保存元素的数量，相当于shape中nXm的值
+# print(a.size)
+
+# itemsize属性返回数组中各个元素所占用的字节数大小。
+# print(a.itemsize)
+
+# nbytes属性，如果想知道整个数组所需的字节数量，可以使用nbytes属性。其值等于数组的size属性值乘以itemsize属性值。
+# print(a.nbytes)
+# print(a.size*a.itemsize)
+
+# T属性，数组转置
+# b = np.arange(24).reshape(4,6)
+# print(b.T)
+
+# 复数的实部和虚部属性，real和imag属性
+# d = np.array([1.2+2j, 2+3j])
+# real属性返回数组的实部
+# print(d.real)
+# imag属性返回数组的虚部
+# print(d.imag)
+
+# flat属性，返回一个numpy.flatiter对象，即可迭代的对象。
+# e = np.arange(6).reshape(2,3)
+# f = e.flat
+# for item in f:
+#     print(item)
+# 可通过位置进行索引，如下：
+
+# print(f[2])
+# print(f[[1,4]])
+# 也可以进行赋值
+# e.flat=7
+# e.flat[[1,4]]=1
+
+
+"""ndarray数组的切片和索引"""
+# 一维数组的切片和索引与python的list索引类似。
+# 二维数组的切片和索引:1轴方向向右，0轴方向向下
+
+
+
+"""处理数组形状"""
+'''形状转换'''
 '''函数resize（）的作用跟reshape（）类似，但是会改变所作用的数组，相当于有inplace=True的效果'''
 a = np.arange(12).reshape(4, 3)
 # print(a.reshape(3,4))
@@ -42,6 +99,9 @@ a = np.arange(12).reshape(4, 3)
 # print(a)
 #
 # print(b.ravel())
+
+# 用tuple指定数组的形状，如下：
+# a.shape=(2,6)
 
 
 '''ravel()和flatten()，将多维数组转换成一维数组，如下：
@@ -57,11 +117,89 @@ a = np.arange(12).reshape(4, 3)
 # print(b)
 
 
+'''转置'''
+# b = np.arange(12).reshape(4,3)
+# print(b.transpose())
+
+'''堆叠数组'''
+# b = np.arange(12).reshape(4,3)
+# print(b*2)
+
+'''水平叠加hstack()'''
+# b = np.arange(12).reshape(4,3)
+# c = b*2
+# print(b)
+# print(c)
+# print(np.hstack((b,c)))
+# column_stack()函数以列方式对数组进行叠加，功能类似hstack（）
+# print(np.column_stack((b,c)))
+
+
+'''垂直叠加vstack()'''
+# b = np.arange(12).reshape(4,3)
+# c = b*2
+# print(b)
+# print(c)
+# print(np.vstack((b,c)))
+# row_stack()函数以行方式对数组进行叠加，功能类似vstack（）
+# print(np.row_stack((b,c)))
+
+
+'''concatenate()方法，通过设置axis的值来设置叠加方向'''
+# axis=1时，沿水平方向叠加
+# axis=0时，沿垂直方向叠加
+
+# b = np.arange(12).reshape(4,3)
+# c = b*2
+# print(np.concatenate((b,c),axis=1))
+# print(np.concatenate((b,c),axis=0))
+
+
+'''深度叠加'''
+# b = np.arange(12).reshape(2,6)
+# c = b*2
+# print(b)
+# print(c)
+# print('----------------------')
+# arr_dstack = np.dstack((b,c))
+# print(arr_dstack.shape)
+# print(np.dstack((b,c)))
 
 
 
 
+'''数组的拆分'''
+# 跟数组的叠加类似，数组的拆分可以分为横向拆分、纵向拆分以及深度拆分。
+# 涉及的函数为 hsplit()、vsplit()、dsplit() 以及split()
+# b = np.arange(12).reshape(2,6)
 
+# 沿横向轴拆分（axis=1）
+# print(np.hsplit(b, 3))
+# print(np.split(b,2, axis=1))
+
+# 沿纵向轴拆分（axis=0）
+# print(np.vsplit(b, 2))
+# print(np.split(b,2,axis=0))
+
+
+
+'''深度拆分'''
+# 拆分的结果是原来的三维数组拆分成为两个二维数组。
+# b = np.arange(12).reshape(2,3,2)
+# print(np.dsplit(b,2))
+
+
+
+
+""""数组的类型转换"""
+# 数组转换成list，使用tolist()
+b = np.arange(12).reshape(2, 6)
+print(b.tolist())
+print(type(b.tolist()))
+# 不会改变原来的numpy数组
+
+
+'''一些简单练习'''
 
 # weight = [65.4, 59.2, 63.6, 88.4, 68.7]  #体重列表
 # height = [1.73, 1.68, 1.71, 1.89, 1.79]  #身高列表
