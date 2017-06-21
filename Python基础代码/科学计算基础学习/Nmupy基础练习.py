@@ -1,5 +1,68 @@
 import numpy as np
 
+"""
+创建ndarray数组
+
+"""
+# Method 1: 基于list或tuple
+# 一维数组
+#
+# 基于list
+# arr1 = np.array([1,2,3,4])
+# print(arr1)
+#
+# 基于tuple
+# arr_tuple = np.array((1,2,3,4))
+# print(arr_tuple)
+#
+# 二维数组 (2*3)
+# arr2 = np.array([[1,2,4], [3,4,5]])
+# print(arr2)
+#
+# Method 2: 基于np.arange
+# 一维数组
+# arr1 = np.arange(5)
+# print(arr1)
+#
+# 二维数组
+# arr2 = np.array([np.arange(3), np.arange(3)])
+# print(arr2)
+#
+# Method 3: 基于arange以及reshape创建多维数组
+# 创建三维数组
+# arr = np.arange(24).reshape(2,3,4)
+# print(arr)
+'''请注意：arange的长度与ndarray的维度的乘积要相等，即 24 = 2X3X4'''
+
+'''函数resize（）的作用跟reshape（）类似，但是会改变所作用的数组，相当于有inplace=True的效果'''
+a = np.arange(12).reshape(4, 3)
+# print(a.reshape(3,4))
+# print(a)
+# print(a.resize(6,2))
+# print(a)
+#
+# print(b.ravel())
+
+
+'''ravel()和flatten()，将多维数组转换成一维数组，如下：
+两者的区别在于返回拷贝（copy）还是返回视图（view），flatten()返回一份拷贝，
+需要分配新的内存空间，对拷贝所做的修改不会影响原始矩阵，
+而ravel()返回的是视图（view），会影响原始矩阵。
+'''
+# b = np.arange(12).reshape(4,3)
+# b.ravel()
+# b.ravel()[2]=10
+# print(b)
+# b.flatten()[2]=15
+# print(b)
+
+
+
+
+
+
+
+
 # weight = [65.4, 59.2, 63.6, 88.4, 68.7]  #体重列表
 # height = [1.73, 1.68, 1.71, 1.89, 1.79]  #身高列表
 #
