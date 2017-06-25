@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guokedetail.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guoke2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guoke测试版.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/settings.py" afterPath="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guoke.py" afterPath="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guoke.py" />
@@ -133,11 +130,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guoke.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="guoke.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guoke.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
-              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -145,11 +142,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guokedetail.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="guokedetail.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guokedetail.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="201">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
                 <element signature="e#454#1335#0" expanded="false" />
@@ -258,10 +255,10 @@
         <option value="$PROJECT_DIR$/Python基础代码/科学计算基础学习/Nmupy基础练习.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/Guokedetail/Guokedetail/spiders/gg.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/Guokedetail/Guokedetail/spiders/g.py" />
-        <option value="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guoke.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/middlewares.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/settings.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guokedetail.py" />
+        <option value="$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guoke.py" />
       </list>
     </option>
   </component>
@@ -305,6 +302,11 @@
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="SearchEverywhereHistoryKey" value="黑&#9;FILE&#9;file://E:/rieuse/learnPython/Python爬虫日记四：获取黑大验证码并登录.py" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="Push.Settings">
+    <excluded-roots>
+      <path value="$PROJECT_DIR$" />
+    </excluded-roots>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -636,13 +638,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
-    </task>
-    <task id="LOCAL-00078" summary="加入三种方法爬取豌豆荚设计奖速度对比">
-      <created>1496820345129</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1496820345129</updated>
     </task>
     <task id="LOCAL-00079" summary="加入三种方法爬取豌豆荚设计奖速度对比">
       <created>1496849584130</created>
@@ -980,7 +975,14 @@
       <option name="project" value="LOCAL" />
       <updated>1498395644968</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="果壳内容更详细">
+      <created>1498399330112</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1498399330112</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1094,7 +1096,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/learnPython" />
     </ignored-roots>
-    <MESSAGE value="整理代码，删除不用文件" />
     <MESSAGE value="添加斗鱼爬取房间信息" />
     <MESSAGE value="整理" />
     <MESSAGE value="删除img" />
@@ -1119,7 +1120,8 @@
     <MESSAGE value="喜马拉雅" />
     <MESSAGE value="scrapy" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="果壳内容更详细" />
+    <option name="LAST_COMMIT_MESSAGE" value="果壳内容更详细" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1437,23 +1439,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guoke.py">
+    <entry file="file://$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guokedetail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        <state relative-caret-position="201">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
+            <element signature="e#454#1335#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guokedetail.py">
+    <entry file="file://$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guoke.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="550">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
-            <element signature="e#454#1335#0" expanded="false" />
           </folding>
         </state>
       </provider>
