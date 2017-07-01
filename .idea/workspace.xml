@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python各种模块使用/图片模块的简单使用.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/异步IO学习.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/技巧-csv的使用.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/技巧-selenium的简单使用.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/技巧-利用requests模块下载图片保存文件.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ScrapyStudy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ScrapyStudy/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/spiders/shixi.py" afterPath="$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/spiders/shixi.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -224,8 +218,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="410" />
-    <option name="y" value="23" />
+    <option name="x" value="536" />
+    <option name="y" value="24" />
     <option name="width" value="1147" />
     <option name="height" value="977" />
   </component>
@@ -620,13 +614,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00090" summary="爬取斗图网站图片">
-      <created>1497188414069</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1497188414069</updated>
-    </task>
     <task id="LOCAL-00091" summary="完善,抓取图片">
       <created>1497192099978</created>
       <option name="number" value="00091" />
@@ -963,7 +950,14 @@
       <option name="project" value="LOCAL" />
       <updated>1498871453119</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="commit">
+      <created>1498894090466</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1498894090467</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1008,7 +1002,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="410" y="23" width="1147" height="977" extended-state="0" />
+    <frame x="536" y="24" width="1147" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20313862" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
