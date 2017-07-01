@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ScrapyStudy/.idea/scrapystudy.iml" afterPath="$PROJECT_DIR$/../ScrapyStudy/.idea/scrapystudy.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python.iml" afterPath="$PROJECT_DIR$/.idea/Python.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python各种模块使用/图片模块的简单使用.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/异步IO学习.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/技巧-csv的使用.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/技巧-selenium的简单使用.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/技巧-使用代理请求网页.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/技巧-利用requests模块下载图片保存文件.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ScrapyStudy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ScrapyStudy/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/spiders/shixi.py" afterPath="$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/spiders/shixi.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,45 +99,12 @@
     <favorites_list name="Python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="guoke.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ScrapyStudy/Guoke/Guoke/spiders/guoke.py">
+    <leaf>
+      <file leaf-file-name="图片模块的简单使用.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python各种模块使用/图片模块的简单使用.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shixi.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/spiders/shixi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-                <element signature="e#313#719#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="插入排序-直接插入.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python算法/插入排序-直接插入.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -185,7 +155,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ScrapyStudy" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
@@ -193,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/doutu/doutu/spiders/doutula.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/scrapystudy/settings.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/scrapystudy/spiders/Scrapy爬虫1：斗图网站最新表情批量抓取.py" />
         <option value="$PROJECT_DIR$/ScrapyDoutu/ScrapyDoutu/items.py" />
@@ -244,6 +213,7 @@
         <option value="$PROJECT_DIR$/../scrapystudy/ShiXiSeng/ShiXiSeng/settings.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/ShiXiSeng/ShiXiSeng/spiders/shixi.py" />
         <option value="$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/spiders/shixi.py" />
+        <option value="$PROJECT_DIR$/Python各种模块使用/图片模块的简单使用.py" />
       </list>
     </option>
   </component>
@@ -254,12 +224,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="238" />
+    <option name="x" value="410" />
     <option name="y" value="23" />
-    <option name="width" value="1682" />
+    <option name="width" value="1147" />
     <option name="height" value="977" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -276,8 +248,35 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learnPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learnPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learnPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learnPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -621,13 +620,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00089" summary="爬取斗图网站图片">
-      <created>1497186511419</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1497186511420</updated>
-    </task>
     <task id="LOCAL-00090" summary="爬取斗图网站图片">
       <created>1497188414069</created>
       <option name="number" value="00090" />
@@ -964,7 +956,14 @@
       <option name="project" value="LOCAL" />
       <updated>1498719085161</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="commit">
+      <created>1498871453119</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1498871453119</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1009,10 +1008,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="238" y="23" width="1682" height="977" extended-state="0" />
+    <frame x="410" y="23" width="1147" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20332618" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20313862" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26789588" sideWeight="0.6001559" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1071,11 +1070,11 @@
     <MESSAGE value="scrapy" />
     <MESSAGE value="果壳内容更详细" />
     <MESSAGE value="正常爬取" />
-    <MESSAGE value="commit" />
     <MESSAGE value="实习僧数据抓取" />
     <MESSAGE value="shixiseng" />
     <MESSAGE value="实习僧完善" />
-    <option name="LAST_COMMIT_MESSAGE" value="实习僧完善" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1086,14 +1085,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频.py" />
-    <entry file="file://$PROJECT_DIR$/Python基础代码/json的获取例子.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
@@ -1234,14 +1225,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ScrapyStudy/Guoke/Guoke/spiders/guoke.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1249,11 +1232,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python算法/插入排序-直接插入.py">
+    <entry file="file://$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/spiders/shixi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="108">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScrapyStudy/Guoke/Guoke/spiders/guoke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1261,18 +1250,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python算法/二分法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python算法/插入排序-直接插入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/spiders/shixi.py">
+    <entry file="file://$PROJECT_DIR$/Python各种模块使用/图片模块的简单使用.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-            <element signature="e#313#719#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
