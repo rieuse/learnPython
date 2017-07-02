@@ -1,9 +1,9 @@
 from PIL import Image, ImageDraw, ImageFont
 import matplotlib.pyplot as plt
-
+import numpy as np
 '''一：打开显示保存'''
 
-img = Image.open('img/3.jpg')
+# img = Image.open('img/3.jpg')
 # plt.figure('meizi')
 # plt.imshow(img)
 # plt.axis('off')
@@ -42,6 +42,7 @@ img = Image.open('img/3.jpg')
 '''
 # 通道分离与合并
 
+# img = Image.open('img/3.jpg')
 # gray = img.convert('L') #转换成灰度
 # r,g,b = img.split()     #分离三通道
 # pic =  Image.merge('RGB',(r,g,b))  #合并三通道
@@ -61,6 +62,7 @@ img = Image.open('img/3.jpg')
 # plt.show()
 
 # 裁剪图片
+# img = Image.open('img/3.jpg')
 # plt.figure("beauty")
 # plt.subplot(1,2,1),plt.title('origin')
 # plt.imshow(img),plt.axis('off')
@@ -73,6 +75,7 @@ img = Image.open('img/3.jpg')
 # 几何变换
 # Image类有resize()、rotate()、transpose()方法进行几何变换
 # 1.图像的缩放和旋转
+# img = Image.open('img/3.jpg')
 # dst1 = img.resize((128,228))
 # dst2 = img.rotate(45)   #顺时针角度表示
 # plt.figure('meizi')
@@ -87,6 +90,7 @@ img = Image.open('img/3.jpg')
 # 2.转换图像
 # #transpose()和rotate()没有性能差别
 
+# img = Image.open('img/3.jpg')
 # dst1 = img.transpose(Image.FLIP_LEFT_RIGHT)   #左右互换
 # dst2 = img.transpose(Image.FLIP_TOP_BOTTOM)   #上下互换
 # dst3 = img.transpose(Image.ROTATE_90)     #顺时针旋转
@@ -109,13 +113,13 @@ img = Image.open('img/3.jpg')
 '''三. 添加水印'''
 
 # 添加文字水印
-im = Image.open('img/3.jpg')
-font = ImageFont.truetype("方正准圆简体.ttf", 48)
-draw = ImageDraw.Draw(im)
-draw.text((10, 10), '漂亮的妹子', fill=(255, 0, 0), font=font)  # fill 为rgb颜色 font设置字体
-plt.imshow(im)
-plt.axis('off')
-plt.show()
+# im = Image.open('img/3.jpg')
+# font = ImageFont.truetype("方正准圆简体.ttf", 48)
+# draw = ImageDraw.Draw(im)
+# draw.text((10, 10), '漂亮的妹子', fill=(255, 0, 0), font=font)  # fill 为rgb颜色 font设置字体
+# plt.imshow(im)
+# plt.axis('off')
+# plt.show()
 
 
 # 添加小图片水印
