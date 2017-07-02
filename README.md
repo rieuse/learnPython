@@ -4,8 +4,8 @@
 * [Python基础代码](https://github.com/rieuse/learnPython/tree/master/Python%E5%9F%BA%E7%A1%80%E4%BB%A3%E7%A0%81)：一些初学Python的时候写的代码，还有一些小技巧记录一下。
 * [Python各种模块使用](https://github.com/rieuse/learnPython/tree/master/Python%E5%90%84%E7%A7%8D%E6%A8%A1%E5%9D%97%E4%BD%BF%E7%94%A8)：一些python有关的模块使用示例
 * [Python算法学习](https://github.com/rieuse/learnPython/tree/master/Python%E7%AE%97%E6%B3%95)：学习Python算法的时候练习的代码，后续会多多练习，暂时时间还不够，暑假继续学习。
-* [ScrapyDoutu](https://github.com/rieuse/learnPython/tree/master/ScrapyDoutu)：使用Scrapy框架爬取了斗图网站的最新表情图片
 * [Python科学计算基础](https://github.com/rieuse/learnPython/tree/master/Python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%9F%BA%E7%A1%80)：Python科学计算相关模块学习使用。
+* [ScrapyDoutu](https://github.com/rieuse/learnPython/tree/master/ScrapyDoutu)：使用Scrapy框架爬取了斗图网站的最新表情图片
 #### 我的微信帐号：r**ieuse**
 #### 我的博客地址：**http://bulolo.cn**
 #### 我的简书地址：**http://www.jianshu.com/u/28fbebb6ac57**
