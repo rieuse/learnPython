@@ -1,6 +1,7 @@
 from PIL import Image, ImageDraw, ImageFont
 import matplotlib.pyplot as plt
 import numpy as np
+
 '''一：打开显示保存'''
 
 # img = Image.open('img/3.jpg')
@@ -114,7 +115,7 @@ import numpy as np
 
 # 添加文字水印
 # im = Image.open('img/3.jpg')
-# font = ImageFont.truetype("方正准圆简体.ttf", 48)
+# font = ImageFont.truetype("img/方正准圆简体.ttf", 48)
 # draw = ImageDraw.Draw(im)
 # draw.text((10, 10), '漂亮的妹子', fill=(255, 0, 0), font=font)  # fill 为rgb颜色 font设置字体
 # plt.imshow(im)
