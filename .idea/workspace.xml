@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/shixiseng.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/科学计算基础学习/Nmupy基础练习.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python基础代码/科学计算基础学习/matplotlib示例1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/Python抓取喜马拉雅电台音频.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫小的demo/Python爬虫1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫小的demo/Python爬虫2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫小的demo/Python爬虫3爬简书7日热门.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫小的demo/Python爬虫4使用bs的select选取图片二进制保存图片文件.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫小的demo/Python爬虫5多线程爬取糗事百科评论.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python爬虫小的demo/爬取花瓣妹子缩略图.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ScrapyStudy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ScrapyStudy/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/spiders/shixi.py" afterPath="$PROJECT_DIR$/../ScrapyStudy/ShiXiSeng/ShiXiSeng/spiders/shixi.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python各种模块使用/图片模块的简单使用.py" afterPath="$PROJECT_DIR$/Python各种模块使用/图片模块的简单使用.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -98,8 +108,8 @@
       <file leaf-file-name="图片模块的简单使用.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python各种模块使用/图片模块的简单使用.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="131" column="17" lean-forward="true" selection-start-line="131" selection-start-column="17" selection-end-line="131" selection-end-column="17" />
+            <state relative-caret-position="539">
+              <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
                 <marker date="1498974647000" expanded="true" signature="2446:2684" ph="..." />
@@ -112,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/Python基础代码/测试1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -232,8 +242,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="948" />
-    <option name="y" value="31" />
+    <option name="x" value="960" />
+    <option name="y" value="23" />
     <option name="width" value="960" />
     <option name="height" value="976" />
   </component>
@@ -597,13 +607,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00093" summary="sort">
-      <created>1497231978525</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1497231978526</updated>
-    </task>
     <task id="LOCAL-00094" summary="sort">
       <created>1497234147948</created>
       <option name="number" value="00094" />
@@ -940,7 +943,14 @@
       <option name="project" value="LOCAL" />
       <updated>1498974222374</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="pil-commit">
+      <created>1498974688134</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1498974688134</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -985,7 +995,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="948" y="31" width="960" height="976" extended-state="0" />
+    <frame x="960" y="23" width="960" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1027,7 +1037,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/learnPython" />
     </ignored-roots>
-    <MESSAGE value="修改socket学习" />
     <MESSAGE value="斗鱼弹幕" />
     <MESSAGE value="斗鱼" />
     <MESSAGE value="加入协程" />
@@ -1052,7 +1061,8 @@
     <MESSAGE value="实习僧完善" />
     <MESSAGE value="commit" />
     <MESSAGE value="pil" />
-    <option name="LAST_COMMIT_MESSAGE" value="pil" />
+    <MESSAGE value="pil-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="pil-commit" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1242,15 +1252,15 @@
     <entry file="file://$PROJECT_DIR$/Python基础代码/测试1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python各种模块使用/图片模块的简单使用.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="131" column="17" lean-forward="true" selection-start-line="131" selection-start-column="17" selection-end-line="131" selection-end-column="17" />
+        <state relative-caret-position="539">
+          <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
             <marker date="1498974647000" expanded="true" signature="2446:2684" ph="..." />
