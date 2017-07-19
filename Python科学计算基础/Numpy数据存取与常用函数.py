@@ -21,3 +21,8 @@ import numpy as np
 # • dtype : 数据类型，可选
 # • delimiter : 分割字符串，默认是任何空格
 # • unpack  : 如果True，读入属性将分别写入不同变量
+
+# b1 = np.loadtxt('a1.csv', delimiter=',')
+# print(b1)
+b2 = np.loadtxt('a2.csv', delimiter=',')
+print(b2)
