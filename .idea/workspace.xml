@@ -2,8 +2,1008 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/1000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/101.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/102.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/103.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/104.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/105.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/106.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/107.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/108.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/109.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/110.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/111.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/112.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/113.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/115.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/116.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/117.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/118.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/119.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/121.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/122.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/123.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/124.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/125.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/126.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/127.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/129.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/130.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/131.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/132.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/133.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/134.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/135.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/136.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/137.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/138.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/139.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/140.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/141.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/142.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/143.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/145.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/146.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/147.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/148.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/149.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/151.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/153.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/154.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/155.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/156.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/157.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/158.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/159.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/160.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/161.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/162.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/163.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/164.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/165.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/166.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/167.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/168.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/169.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/170.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/171.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/172.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/173.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/174.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/175.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/176.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/177.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/178.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/179.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/181.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/182.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/183.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/184.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/185.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/186.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/187.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/188.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/189.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/190.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/191.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/193.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/194.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/195.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/196.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/197.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/198.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/199.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/200.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/201.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/202.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/203.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/204.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/205.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/206.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/207.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/208.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/209.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/210.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/211.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/212.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/213.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/214.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/215.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/216.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/217.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/218.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/219.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/220.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/221.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/222.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/223.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/224.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/225.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/226.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/227.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/228.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/229.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/230.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/231.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/232.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/233.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/234.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/235.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/236.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/237.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/238.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/239.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/241.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/242.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/243.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/244.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/245.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/246.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/247.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/248.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/249.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/250.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/251.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/252.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/253.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/254.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/255.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/257.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/258.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/259.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/260.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/261.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/262.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/263.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/264.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/265.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/266.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/267.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/268.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/269.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/270.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/271.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/272.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/273.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/274.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/275.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/276.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/277.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/278.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/279.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/280.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/281.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/282.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/283.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/284.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/285.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/286.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/287.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/288.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/289.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/290.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/291.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/292.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/293.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/294.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/295.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/296.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/297.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/298.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/299.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/301.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/302.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/303.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/304.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/305.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/306.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/307.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/308.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/309.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/310.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/311.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/312.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/313.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/314.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/315.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/316.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/317.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/318.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/319.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/320.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/321.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/322.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/323.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/324.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/325.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/326.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/327.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/328.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/329.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/330.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/331.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/332.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/333.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/334.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/335.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/336.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/337.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/338.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/339.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/340.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/341.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/342.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/343.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/344.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/345.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/346.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/347.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/348.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/349.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/350.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/351.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/352.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/353.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/354.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/355.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/356.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/357.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/358.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/359.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/360.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/361.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/362.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/363.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/364.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/365.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/366.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/367.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/368.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/369.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/370.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/371.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/372.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/373.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/374.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/375.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/376.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/377.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/378.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/379.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/380.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/381.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/382.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/383.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/384.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/385.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/386.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/387.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/388.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/389.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/390.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/391.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/392.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/393.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/394.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/395.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/396.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/397.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/398.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/399.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/401.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/402.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/403.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/404.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/405.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/406.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/407.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/408.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/409.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/410.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/411.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/412.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/413.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/414.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/415.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/416.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/417.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/418.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/419.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/420.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/421.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/422.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/423.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/424.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/425.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/426.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/427.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/428.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/429.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/430.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/431.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/432.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/433.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/434.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/435.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/436.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/437.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/438.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/439.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/440.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/441.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/442.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/443.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/444.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/445.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/446.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/447.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/448.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/449.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/450.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/451.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/452.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/453.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/454.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/455.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/456.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/457.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/458.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/459.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/46.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/460.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/461.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/462.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/463.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/464.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/465.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/466.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/467.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/468.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/469.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/47.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/470.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/471.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/472.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/473.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/474.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/475.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/476.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/477.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/478.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/479.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/480.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/481.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/482.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/483.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/484.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/485.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/486.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/487.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/488.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/489.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/490.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/491.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/492.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/493.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/494.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/495.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/496.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/497.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/498.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/499.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/500.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/501.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/502.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/503.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/504.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/505.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/506.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/507.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/508.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/509.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/51.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/510.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/511.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/512.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/513.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/514.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/515.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/516.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/517.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/518.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/519.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/520.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/521.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/522.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/523.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/524.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/525.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/526.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/527.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/528.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/529.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/53.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/530.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/531.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/532.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/533.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/534.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/535.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/536.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/537.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/538.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/539.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/54.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/540.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/541.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/542.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/543.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/544.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/545.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/546.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/547.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/548.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/549.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/55.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/550.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/551.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/552.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/553.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/554.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/555.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/556.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/557.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/558.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/559.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/56.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/560.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/561.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/562.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/563.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/564.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/565.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/566.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/567.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/568.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/569.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/570.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/571.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/572.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/573.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/574.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/575.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/576.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/577.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/578.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/579.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/58.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/580.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/581.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/582.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/583.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/584.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/585.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/586.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/587.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/588.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/589.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/59.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/590.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/591.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/592.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/593.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/594.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/595.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/596.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/597.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/598.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/599.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/601.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/602.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/603.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/604.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/605.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/606.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/607.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/608.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/609.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/61.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/610.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/611.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/612.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/613.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/614.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/615.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/616.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/617.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/618.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/619.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/62.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/620.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/621.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/622.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/623.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/624.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/625.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/626.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/627.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/628.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/629.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/63.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/630.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/631.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/632.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/633.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/634.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/635.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/636.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/637.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/638.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/639.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/640.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/641.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/642.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/643.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/644.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/645.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/646.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/647.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/648.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/649.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/65.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/650.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/651.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/652.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/653.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/654.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/655.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/656.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/657.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/658.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/659.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/660.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/661.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/662.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/663.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/664.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/665.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/666.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/667.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/668.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/669.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/67.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/670.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/671.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/672.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/673.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/674.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/675.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/676.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/677.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/678.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/679.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/680.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/681.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/682.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/683.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/684.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/685.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/686.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/687.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/688.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/689.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/69.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/690.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/691.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/692.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/693.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/694.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/695.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/696.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/697.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/698.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/699.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/700.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/701.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/702.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/703.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/704.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/705.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/706.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/707.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/708.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/709.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/71.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/710.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/711.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/712.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/713.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/714.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/715.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/716.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/717.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/718.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/719.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/720.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/721.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/722.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/723.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/724.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/725.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/726.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/727.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/728.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/729.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/73.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/730.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/731.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/732.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/733.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/734.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/735.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/736.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/737.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/738.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/739.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/74.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/740.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/741.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/742.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/743.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/744.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/745.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/746.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/747.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/748.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/749.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/75.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/750.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/751.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/752.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/753.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/754.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/755.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/756.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/757.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/758.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/759.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/760.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/761.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/762.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/763.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/764.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/765.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/766.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/767.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/768.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/769.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/77.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/770.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/771.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/772.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/773.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/774.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/775.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/776.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/777.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/778.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/779.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/78.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/780.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/781.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/782.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/783.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/784.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/785.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/786.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/787.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/788.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/789.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/79.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/790.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/791.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/792.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/793.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/794.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/795.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/796.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/797.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/798.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/799.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/800.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/801.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/802.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/803.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/804.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/805.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/806.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/807.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/808.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/809.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/81.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/810.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/811.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/812.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/813.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/814.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/815.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/816.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/817.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/818.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/819.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/82.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/820.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/821.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/822.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/823.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/824.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/825.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/826.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/827.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/828.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/829.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/83.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/830.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/831.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/832.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/833.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/834.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/835.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/836.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/837.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/838.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/839.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/84.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/840.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/841.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/842.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/843.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/844.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/845.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/846.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/847.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/848.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/849.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/85.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/850.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/851.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/852.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/853.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/854.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/855.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/856.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/857.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/858.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/859.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/86.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/860.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/861.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/862.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/863.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/864.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/865.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/866.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/867.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/868.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/869.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/87.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/870.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/871.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/872.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/873.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/874.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/875.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/876.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/877.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/878.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/879.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/88.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/880.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/881.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/882.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/883.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/884.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/885.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/886.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/887.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/888.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/889.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/89.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/890.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/891.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/892.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/893.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/894.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/895.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/896.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/897.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/898.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/899.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/90.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/900.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/901.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/902.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/903.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/904.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/905.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/906.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/907.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/908.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/909.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/91.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/910.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/911.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/912.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/913.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/914.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/915.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/916.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/917.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/918.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/919.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/92.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/920.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/921.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/922.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/923.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/924.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/925.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/926.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/927.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/928.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/929.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/93.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/930.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/931.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/932.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/933.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/934.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/935.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/936.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/937.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/938.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/939.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/94.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/940.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/941.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/942.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/943.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/944.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/945.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/946.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/947.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/948.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/949.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/95.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/950.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/951.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/952.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/953.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/954.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/955.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/956.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/957.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/958.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/959.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/960.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/961.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/962.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/963.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/964.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/965.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/966.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/967.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/968.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/969.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/97.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/970.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/971.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/972.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/973.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/974.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/975.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/976.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/977.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/978.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/979.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/98.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/980.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/981.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/982.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/983.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/984.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/985.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/986.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/987.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/988.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/989.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/99.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/990.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/991.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/992.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/993.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/994.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/995.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/996.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/997.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/998.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/img/999.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/验证码识别/get_captcha.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python科学计算基础/Numpy数据存取与常用函数.py" afterPath="$PROJECT_DIR$/Python科学计算基础/Numpy数据存取与常用函数.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,6 +1014,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/learnPython$APIMongodb.coverage" NAME="利用斗鱼API爬取斗鱼全部房间信息保存到Mongodb Coverage Results" MODIFIED="1495983454354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPython$recognize.coverage" NAME="recognize Coverage Results" MODIFIED="1500647693613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Programming/代码收集/验证码识别/captcha-break-master/basic/python" />
     <SUITE FILE_PATH="coverage/learnPython$socket.coverage" NAME="socket学习 Coverage Results" MODIFIED="1496334841086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础代码" />
     <SUITE FILE_PATH="coverage/learnPython$duanxin.coverage" NAME="duanxin Coverage Results" MODIFIED="1499164551655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1496338990585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -28,6 +1029,7 @@
     <SUITE FILE_PATH="coverage/learnPython$1.coverage" NAME="测试1 Coverage Results" MODIFIED="1498645229052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../scrapystudy" />
     <SUITE FILE_PATH="coverage/learnPython$.coverage" NAME="图片模块的简单使用 Coverage Results" MODIFIED="1498974568606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python各种模块使用" />
     <SUITE FILE_PATH="coverage/learnPython$yield.coverage" NAME="yield练习 Coverage Results" MODIFIED="1496882130514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础代码" />
+    <SUITE FILE_PATH="coverage/learnPython$get_code.coverage" NAME="get_code Coverage Results" MODIFIED="1500644726151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/验证码识别" />
     <SUITE FILE_PATH="coverage/learnPython$tcp.coverage" NAME="tcp小例子 Coverage Results" MODIFIED="1492220369297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$IO.coverage" NAME="异步IO学习 Coverage Results" MODIFIED="1496713741931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础代码" />
     <SUITE FILE_PATH="coverage/learnPython$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1495359405714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -35,6 +1037,7 @@
     <SUITE FILE_PATH="coverage/learnPython$API.coverage" NAME="使用斗鱼API爬取房间弹幕 Coverage Results" MODIFIED="1495965965989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$xpath.coverage" NAME="喜马拉雅xpath Coverage Results" MODIFIED="1497586379549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa" />
     <SUITE FILE_PATH="coverage/learnPython$3.coverage" NAME="用于测试3 Coverage Results" MODIFIED="1497513744471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPython$python_recognize.coverage" NAME="python_recognize Coverage Results" MODIFIED="1500647570020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Programming/代码收集/验证码识别/identfying_code_recognize-master" />
     <SUITE FILE_PATH="coverage/learnPython$demobasic.coverage" NAME="demobasic Coverage Results" MODIFIED="1493797160726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Programming/Python/pyrailgun-master/demo/tour" />
     <SUITE FILE_PATH="coverage/learnPython$Python37.coverage" NAME="Python爬虫3爬简书7日热门 Coverage Results" MODIFIED="1493770128352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnPython$json.coverage" NAME="json的获取例子 Coverage Results" MODIFIED="1499167142254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础代码" />
@@ -95,22 +1098,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Nmupy基础练习.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python科学计算基础/Nmupy基础练习.py">
+      <file leaf-file-name="recognize.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Programming/代码收集/验证码识别/captcha-break-master/basic/python/recognize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="725">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Numpy数据存取与常用函数.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python科学计算基础/Numpy数据存取与常用函数.py">
+      <file leaf-file-name="get_captcha.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/验证码识别/get_captcha.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="701">
-              <caret line="99" column="11" lean-forward="false" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
-              <folding />
+            <state relative-caret-position="175">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,7 +1134,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>col</find>
       <find>HOST</find>
       <find>tranMsg</find>
       <find>LOGIN_INFO</find>
@@ -157,6 +1163,7 @@
       <find>开始解析第28个页面</find>
       <find>寒门崛起</find>
       <find>个月</find>
+      <find>下载</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -168,12 +1175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python基础代码/进制转换.py" />
-        <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记六：Selenium+xpath+bs4爬取亚马逊数据保存到mongodb.py" />
-        <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：爬取豌豆荚设计奖三种方法加速爬取效率对比.py" />
-        <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记九：豌豆荚设计奖三种爬取方法速度对比.py" />
-        <option value="$PROJECT_DIR$/YY直播数据抓取.py" />
-        <option value="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/middlewares.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/喜马拉雅xpath.py" />
         <option value="$PROJECT_DIR$/../scrapystudy/ScrapyXiMaLaYa/Python抓取喜马拉雅电台音频.py" />
         <option value="$PROJECT_DIR$/Python抓取喜马拉雅电台音频.py" />
@@ -219,6 +1220,12 @@
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫—抓包分析爬取实习僧全部招聘信息.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/scp02152/home/ubuntu/shixi.py" />
         <option value="$PROJECT_DIR$/Python科学计算基础/Numpy数据存取与常用函数.py" />
+        <option value="$PROJECT_DIR$/Python各种模块使用/get_code.py" />
+        <option value="E:/Programming/代码收集/验证码识别/identfying_code_recognize-master/python_recognize.py" />
+        <option value="E:/Programming/代码收集/验证码识别/identfying_code_recognize-master/python_getpic.py" />
+        <option value="E:/Programming/代码收集/验证码识别/captcha-break-master/basic/python/recognize.py" />
+        <option value="$PROJECT_DIR$/验证码识别/get_code.py" />
+        <option value="$PROJECT_DIR$/验证码识别/get_captcha.py" />
       </list>
     </option>
   </component>
@@ -229,9 +1236,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="914" />
-    <option name="width" value="1014" />
-    <option name="height" value="1050" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="添加" />
@@ -284,26 +1292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Numpy数据存取与常用函数">
-    <configuration default="false" name="duanxin" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/duanxin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.recognize">
     <configuration default="false" name="Python爬虫—抓包分析爬取实习僧全部招聘信息" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,44 +1312,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="用于测试2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/用于测试2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="json的获取例子" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础代码" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础代码/json的获取例子.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="Numpy数据存取与常用函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -375,6 +1326,63 @@
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python科学计算基础/Numpy数据存取与常用函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="get_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/验证码识别" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/验证码识别/get_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="python_recognize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/Programming/代码收集/验证码识别/identfying_code_recognize-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/Programming/代码收集/验证码识别/identfying_code_recognize-master/python_recognize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="recognize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/Programming/代码收集/验证码识别/captcha-break-master/basic/python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/Programming/代码收集/验证码识别/captcha-break-master/basic/python/recognize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -563,19 +1571,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.duanxin" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Python爬虫—抓包分析爬取实习僧全部招聘信息" />
-      <item index="2" class="java.lang.String" itemvalue="Python.用于测试2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.json的获取例子" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Numpy数据存取与常用函数" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Python爬虫—抓包分析爬取实习僧全部招聘信息" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Numpy数据存取与常用函数" />
+      <item index="2" class="java.lang.String" itemvalue="Python.get_code" />
+      <item index="3" class="java.lang.String" itemvalue="Python.python_recognize" />
+      <item index="4" class="java.lang.String" itemvalue="Python.recognize" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Numpy数据存取与常用函数" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Python爬虫—抓包分析爬取实习僧全部招聘信息" />
-        <item index="2" class="java.lang.String" itemvalue="Python.json的获取例子" />
-        <item index="3" class="java.lang.String" itemvalue="Python.用于测试2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.duanxin" />
+        <item index="0" class="java.lang.String" itemvalue="Python.recognize" />
+        <item index="1" class="java.lang.String" itemvalue="Python.python_recognize" />
+        <item index="2" class="java.lang.String" itemvalue="Python.get_code" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Numpy数据存取与常用函数" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Python爬虫—抓包分析爬取实习僧全部招聘信息" />
       </list>
     </recent_temporary>
   </component>
@@ -592,13 +1600,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
-    </task>
-    <task id="LOCAL-00099" summary="sort">
-      <created>1497391651446</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1497391651446</updated>
     </task>
     <task id="LOCAL-00100" summary="sort">
       <created>1497398121266</created>
@@ -936,7 +1937,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500473041043</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="commit">
+      <created>1500501893609</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1500501893610</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -981,7 +1989,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="914" y="0" width="1014" height="1050" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -991,7 +1999,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264642" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29077253" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19848156" sideWeight="0.3998441" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26754385" sideWeight="0.48872858" order="14" side_tool="false" content_ui="tabs" x="373" y="796" width="1105" height="219" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26681128" sideWeight="0.48872858" order="14" side_tool="false" content_ui="tabs" x="373" y="796" width="1105" height="219" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20311394" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24948876" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1023,7 +2031,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/learnPython" />
     </ignored-roots>
-    <MESSAGE value="斗鱼" />
     <MESSAGE value="加入协程" />
     <MESSAGE value="协程" />
     <MESSAGE value="proxy" />
@@ -1048,7 +2055,8 @@
     <MESSAGE value="sort" />
     <MESSAGE value="抓包分析实习僧然后爬取数据" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="captcha" />
+    <option name="LAST_COMMIT_MESSAGE" value="captcha" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1059,18 +2067,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/xima.py" />
-    <entry file="file://$PROJECT_DIR$/用于测试4.py" />
-    <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/xima2.py" />
-    <entry file="file://$PROJECT_DIR$/Python爬虫日记系列/Python爬取日记十：抓取喜马拉雅电台音频.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/Python抓取喜马拉雅电台音频.py" />
-    <entry file="file://$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频.py" />
     <entry file="file://$PROJECT_DIR$/Python基础代码/异步IO学习.py" />
     <entry file="file://$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guoke测试版.py" />
     <entry file="file://$PROJECT_DIR$/../scrapystudy/Guoke/guoke.json" />
@@ -1189,13 +2185,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/duanxin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp02152/home/ubuntu/shixi.py" />
     <entry file="file://$PROJECT_DIR$/../scrapystudy/Guoke/Guoke/spiders/guoke.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1225,14 +2214,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python科学计算基础/Nmupy基础练习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python科学计算基础/b.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1256,9 +2237,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python科学计算基础/Numpy数据存取与常用函数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="701">
+        <state relative-caret-position="686">
           <caret line="99" column="11" lean-forward="false" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python科学计算基础/Nmupy基础练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1875">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python各种模块使用/get_code.py" />
+    <entry file="file://$PROJECT_DIR$/duanxin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programming/代码收集/验证码识别/identfying_code_recognize-master/python_recognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="147" column="42" lean-forward="true" selection-start-line="147" selection-start-column="42" selection-end-line="147" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programming/代码收集/验证码识别/identfying_code_recognize-master/python_getpic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/验证码识别/get_code.py" />
+    <entry file="file://E:/Programming/代码收集/验证码识别/captcha-break-master/basic/python/recognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/验证码识别/get_captcha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
