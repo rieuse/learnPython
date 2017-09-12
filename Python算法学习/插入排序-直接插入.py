@@ -18,7 +18,7 @@ def insert_sort(lists):
                 lists[j + 1], lists[j] = lists[j], key
             j = j - 1
             print('第', i, '趟', lists)
-    return lists
+    return lists      
 
 
 arr = [77, 64, 1, 34, 546, 442, 89, 99, 76, 90]
