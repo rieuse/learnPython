@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="默认的">
+    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace - 副本.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -212,8 +212,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="161" />
-    <option name="y" value="27" />
+    <option name="x" value="473" />
+    <option name="y" value="39" />
     <option name="width" value="1938" />
     <option name="height" value="1060" />
   </component>
@@ -240,17 +240,6 @@
             <path>
               <item name="learnPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnPython" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
-              <item name="bbs_spider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
-              <item name="bbs_spider" type="462c0819:PsiDirectoryNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -594,6 +583,27 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
+    <task id="LOCAL-00102" summary="sort">
+      <created>1497436259883</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1497436259884</updated>
+    </task>
+    <task id="LOCAL-00103" summary="sort">
+      <created>1497436372936</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1497436372936</updated>
+    </task>
+    <task id="LOCAL-00104" summary="sort">
+      <created>1497515611781</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1497515611782</updated>
+    </task>
     <task id="LOCAL-00105" summary="sort">
       <created>1497578815569</created>
       <option name="number" value="00105" />
@@ -916,28 +926,7 @@
       <option name="project" value="LOCAL" />
       <updated>1511503849402</updated>
     </task>
-    <task id="LOCAL-00151" summary="add baidu_tieba">
-      <created>1511503943679</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1511503943679</updated>
-    </task>
-    <task id="LOCAL-00152" summary="add bbs_spider">
-      <created>1511503990167</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1511503990167</updated>
-    </task>
-    <task id="LOCAL-00153" summary="add bbs_spider">
-      <created>1511504248251</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1511504248251</updated>
-    </task>
-    <option name="localTasksCounter" value="154" />
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1033,6 +1022,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/learnPython" />
     </ignored-roots>
+    <MESSAGE value="加入协程" />
+    <MESSAGE value="协程" />
     <MESSAGE value="proxy" />
     <MESSAGE value="proxy add htpps" />
     <MESSAGE value="add" />
@@ -1056,9 +1047,7 @@
     <MESSAGE value="抓包分析实习僧然后爬取数据" />
     <MESSAGE value="commit" />
     <MESSAGE value="captcha" />
-    <MESSAGE value="add baidu_tieba" />
-    <MESSAGE value="add bbs_spider" />
-    <option name="LAST_COMMIT_MESSAGE" value="add bbs_spider" />
+    <option name="LAST_COMMIT_MESSAGE" value="captcha" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
