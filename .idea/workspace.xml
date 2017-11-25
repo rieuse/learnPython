@@ -1,120 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/12.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57383.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57388.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57416.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57440.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57444.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57467.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57478.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57511.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57519.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57545.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57576.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57590.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57631.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57646.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57664.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57678.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57697.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57700.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57720.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57723.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57725.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57743.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57770.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57774.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57785.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57816.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57837.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57849.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57856.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57875.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57885.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57912.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57916.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57920.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57921.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57965.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57971.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58002.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58018.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58063.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58065.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58080.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58089.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58101.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58103.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58111.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58128.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58138.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58143.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58151.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58268.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58274.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58308.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58317.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/jinri/headlines_today" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/jinri/jinritoutiao" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guardian/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guardian/demo1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guardian/demo2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guardian/guardian.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guardian/guardian2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guardian/psutil-demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guardian/spider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/chinanews/chinanews.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/chinanews/chinanews_get_txt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/chinanews/get_pc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/chinanews/get_txt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/chinanews/pc_cul_urls.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/chinanews/pc_life_urls.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/.idea/iyuba.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/demmo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/iyuba.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57465.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57466.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57553.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57844.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57870.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57913.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57922.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/57945.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58069.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/english/iyuba/source/58075.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/get_txt_threading.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ifeng/ifeng.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ifeng/ifeng_log.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ifeng/ifeng_redis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/.idea/ithome.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/hash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/it.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/ithome.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/ithome/js2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/root.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/sina/get_sina_army.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/sina/get_sina_redis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/sina/get_txt_sina.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/sina/get_txt_sina2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/sina/get_txt_sina_threading.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/sina/sina.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhihu/zhihu-bloom.py" />
+    <list default="true" id="4bd7c877-b0ef-46c7-a44a-f2a38ccdcfc5" name="默认的" comment="add spider">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guardian/guardian2.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news/jinri/jinritoutiao" afterPath="$PROJECT_DIR$/news/jinri/jinritoutiao" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardian/guardian.py" afterPath="$PROJECT_DIR$/guardian/guardian.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -209,7 +100,20 @@
     <favorites_list name="Python" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="guardian.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/guardian/guardian.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="51" column="11" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -255,14 +159,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="E:/scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/settings.py" />
         <option value="E:/scrapystudy/ScrapyXiMaLaYa/ScrapyXiMaLaYa/spiders/ximalaya.py" />
         <option value="$PROJECT_DIR$/Python抓取喜马拉雅电台音频/异步抓取喜马拉雅电台音频1.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬取日记十：抓取喜马拉雅电台音频.py" />
@@ -313,6 +213,7 @@
         <option value="$PROJECT_DIR$/验证码识别/tessorflow_captcha.py" />
         <option value="$PROJECT_DIR$/验证码识别/imgry.py" />
         <option value="$PROJECT_DIR$/Python爬虫日记系列/Python爬虫日记四：获取黑大验证码并登录.py" />
+        <option value="$PROJECT_DIR$/guardian/guardian.py" />
       </list>
     </option>
   </component>
@@ -322,11 +223,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="473" />
-    <option name="y" value="39" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1938" />
-    <option name="height" value="1060" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -344,7 +245,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -352,10 +252,16 @@
               <item name="learnPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnPython" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learnPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="guardian" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -694,13 +600,6 @@
       <option name="presentableId" value="Default" />
       <updated>1491196652065</updated>
     </task>
-    <task id="LOCAL-00102" summary="sort">
-      <created>1497436259883</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1497436259884</updated>
-    </task>
     <task id="LOCAL-00103" summary="sort">
       <created>1497436372936</created>
       <option name="number" value="00103" />
@@ -1037,7 +936,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511503849402</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="add spider">
+      <created>1511505305210</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1511505305211</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1083,48 +989,39 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2027897" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26789588" sideWeight="0.6001559" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264642" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22932746" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19848156" sideWeight="0.3998441" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20260416" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22932746" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264642" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24948876" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946351" sideWeight="0.5172798" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19848156" sideWeight="0.3998441" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946351" sideWeight="0.5172798" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45535105" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26789588" sideWeight="0.6001559" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29077253" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24948876" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45535105" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264642" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22932746" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26681128" sideWeight="0.48872858" order="14" side_tool="false" content_ui="tabs" x="373" y="796" width="1105" height="219" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19848156" sideWeight="0.3998441" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20311394" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946351" sideWeight="0.5172798" order="2" side_tool="true" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1133,7 +1030,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/learnPython" />
     </ignored-roots>
-    <MESSAGE value="加入协程" />
     <MESSAGE value="协程" />
     <MESSAGE value="proxy" />
     <MESSAGE value="proxy add htpps" />
@@ -1158,7 +1054,8 @@
     <MESSAGE value="抓包分析实习僧然后爬取数据" />
     <MESSAGE value="commit" />
     <MESSAGE value="captcha" />
-    <option name="LAST_COMMIT_MESSAGE" value="captcha" />
+    <MESSAGE value="add spider" />
+    <option name="LAST_COMMIT_MESSAGE" value="add spider" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1169,7 +1066,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/scrapystudy/Guoke/Guoke/spiders/gg.py" />
     <entry file="file://E:/scrapystudy/Guoke/Guoke/spiders/guoke2.py" />
     <entry file="file://E:/scrapystudy/Guoke/Guoke/spiders/guokedetail.py" />
     <entry file="file://E:/scrapystudy/Guokedetail/Guokedetail/items.py" />
@@ -1295,6 +1191,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardian/guardian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="51" column="11" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
